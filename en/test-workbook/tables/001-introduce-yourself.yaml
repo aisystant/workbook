@@ -1,0 +1,15 @@
+title: Introduce Yourself
+description: This is a test workbook for testing purposes
+columns:
+  - title: Number
+    description: Your number
+    uidt: SingleLineText
+    pv: yes
+  - title: Name
+    description: Your name
+    uidt: SingleLineText
+rows:
+  - "Number": 1
+    "Name": John Doe
+
+
