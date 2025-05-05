@@ -1,0 +1,32 @@
+title: 6-5 "Модели, мета-модели, мульти-модели"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Система
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Пример одной модели
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Мета-модель
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Мульти-модель
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Мега-модель
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

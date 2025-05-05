@@ -1,0 +1,20 @@
+title: 4-3 "Выявление типа целевой системы по описаниям"
+description: ''
+columns:
+- title: Документ с описанием
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Описываемая целевая система
+  description: 'Запишите наиболее запомнившиеся понятия '
+  uidt: LongText
+  pv: ''
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+rows: []

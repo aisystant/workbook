@@ -1,0 +1,29 @@
+title: 7-4 "Профессиональные сообщества по sota-методам"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Деятельностная роль
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Метод
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Состоите ли вы в профессиональной ассоциации (укажите, какой и проставьте,
+    сколько лет платите взносы)
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Заметки
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

@@ -1,0 +1,28 @@
+title: 6-3 "Документы проекта (предприятия)"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Документ
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: О чем
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Роль создателя
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Для кого
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

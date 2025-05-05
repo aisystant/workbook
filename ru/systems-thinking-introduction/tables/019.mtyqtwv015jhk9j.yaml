@@ -1,0 +1,28 @@
+title: 3-4 "Внешние и внутренние роли в проекте"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Продукт вашего предриятия
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Внешние проектные роли
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Notes
+  description: Запишите свои любые заметки
+  uidt: LongText
+  pv: ''
+- title: Внутренние проектные роли
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

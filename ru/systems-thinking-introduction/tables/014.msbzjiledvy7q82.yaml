@@ -1,0 +1,24 @@
+title: 2-6 "Функциональный объект, конструктивный объект"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Функциональный/ролевой объект
+  description: Заполните пустые ячейки
+  uidt: LongText
+  pv: ''
+- title: Функция/Ролевое поведение
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Конструктивный/Физический объект
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

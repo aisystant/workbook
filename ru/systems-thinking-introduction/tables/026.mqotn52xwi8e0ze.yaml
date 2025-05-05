@@ -1,0 +1,28 @@
+title: 3-11 "Внешние проектные роли и успешность системы"
+description: ''
+columns:
+- title: ФИО исполнителя
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Название внешней проектной роли
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Ролевой интерес и предпочтение
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Ваше ожидание, что предпочтение будет соблюдено
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Заметки
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

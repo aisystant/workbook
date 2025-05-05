@@ -1,0 +1,36 @@
+title: 3-3 "Роль, исполнитель, звание и должность"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: ФИО
+  description: Заполните пустые ячейки
+  uidt: LongText
+  pv: ''
+- title: Роль
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Должность
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Notes
+  description: Запишите свои любые заметки
+  uidt: LongText
+  pv: ''
+- title: Звание
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Квалификация исполнителя
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

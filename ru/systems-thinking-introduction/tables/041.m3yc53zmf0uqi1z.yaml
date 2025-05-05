@@ -1,0 +1,36 @@
+title: 6-2 "Роль, система, предмет интереса, метод описания
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Система
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Проектная роль
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Предмет интереса
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Метод описания
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Рабочий продукт
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Заметки
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

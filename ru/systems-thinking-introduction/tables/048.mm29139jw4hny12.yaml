@@ -1,0 +1,40 @@
+title: '7-2 "Метод: дисциплина и инструменты"'
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Ваша деятельностная роль
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Часы проведенные в роли в ходе работы
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Используемые методы
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Откуда знаете дисциплину
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Какие инструменты задействовали в поддержку дисциплины
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Лучший альтернативный метод
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+rows: []

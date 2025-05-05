@@ -1,0 +1,28 @@
+title: 2-5 "Описание и метод описания (практика)"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Система
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Описание системы
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Метод описания
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Notes
+  description: Запишите свои любые заметки
+  uidt: LongText
+  pv: ''
+rows: []

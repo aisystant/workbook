@@ -1,0 +1,48 @@
+title: 5-7 "Таблица 3х3"
+description: ''
+columns:
+- title: Области интересов
+  description: ''
+  uidt: LongText
+  pv: true
+- title: Предприниматель
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Инженер
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Менеджер
+  description: ''
+  uidt: LongText
+  pv: ''
+rows:
+- Id: 1
+  Области интересов: Область интереса надсистемы
+  Предприниматель: ''
+  Инженер: ''
+  Date: ''
+  Менеджер: ''
+  CreatedAt: '2024-11-23 18:50:49+00:00'
+  UpdatedAt: ''
+- Id: 2
+  Области интересов: 'Область интереса целевой системы '
+  Предприниматель: ''
+  Инженер: ''
+  Date: ''
+  Менеджер: ''
+  CreatedAt: '2024-11-23 18:50:49+00:00'
+  UpdatedAt: ''
+- Id: 3
+  Области интересов: "Область интереса систем создания\r"
+  Предприниматель: ''
+  Инженер: ''
+  Date: ''
+  Менеджер: ''
+  CreatedAt: '2024-11-23 18:50:49+00:00'
+  UpdatedAt: ''
