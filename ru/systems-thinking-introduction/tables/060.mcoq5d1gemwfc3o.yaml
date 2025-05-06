@@ -1,0 +1,36 @@
+title: 7-14 "Степень мыслительного мастерства"
+description: ''
+columns:
+- title: Мастерство в практике интеллект-стека
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Оценка вашего текущего мастерства по десятибалльной шкале
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: В том числе научили в вузе
+  description: ' '
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: В том числе научился сам до поступления в AISYSTANT
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Год версии дисциплины, изученной до AISYSTANT
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Заметки
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: В т.ч. научился в Aisystant
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

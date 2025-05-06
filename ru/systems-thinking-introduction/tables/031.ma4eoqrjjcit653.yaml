@@ -1,0 +1,28 @@
+title: 4-5 "Целевая система и «наша система»"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Проект
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Целевая система
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Наша система
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Основная ваша роль в проекте
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

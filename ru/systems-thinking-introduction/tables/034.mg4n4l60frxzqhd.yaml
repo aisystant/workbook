@@ -1,0 +1,20 @@
+title: '5-2 "Аннотирование типами с использованием нотации::'
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Без типов
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: С типами
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+rows: []

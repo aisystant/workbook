@@ -1,0 +1,40 @@
+title: 7-12 "Примеры кратких описаний проектов"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Целевая система
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Функция целевой системы
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Надсистема
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Системы в ближнем окружении
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Внешние проектные роли
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Примеры потребностей
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Примеры систем создания
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

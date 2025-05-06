@@ -1,0 +1,32 @@
+title: 4-4 "Целевая система и её надсистема"
+description: ''
+columns:
+- title: Название проекта
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Целевая система
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Функция/Назначение
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Надсистема
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Сколько проверок вы сделали для определения ЦС
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: На сколько процентов вы уверены
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

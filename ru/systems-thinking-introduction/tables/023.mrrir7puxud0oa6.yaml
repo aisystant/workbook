@@ -1,0 +1,40 @@
+title: 3-8 "Выявление ролей и ролевых ожиданий"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Актер (ФИО)
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Что делает (в порядке убывания затрачиваемого времени)
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Список выполняемых ролей для этих деятельностей
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Должность
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Какие роли хочет выполнять
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Прогноз карьеры (в свободной форме)
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Заметки
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []

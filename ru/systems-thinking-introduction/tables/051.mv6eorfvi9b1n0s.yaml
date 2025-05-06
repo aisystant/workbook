@@ -1,0 +1,48 @@
+title: 7-5 "Методы и системные уровни"
+description: ''
+columns:
+- title: Системные уровни
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Метод
+  description: ''
+  uidt: LongText
+  pv: ''
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+rows:
+- Id: 7
+  Системные уровни: Мероприятия по продвижению продукта
+  Метод: ''
+  Заметки: ''
+  Date: ''
+  CreatedAt: '2024-11-23 18:50:50+00:00'
+  UpdatedAt: ''
+- Id: 40
+  Системные уровни: Презентация продукта вживую, убедительная речь
+  Метод: ''
+  Заметки: ''
+  Date: ''
+  CreatedAt: '2024-11-23 18:50:50+00:00'
+  UpdatedAt: ''
+- Id: 41
+  Системные уровни: Разборчивая и выразительная речь
+  Метод: ''
+  Заметки: ''
+  Date: ''
+  CreatedAt: '2024-11-23 18:50:50+00:00'
+  UpdatedAt: ''
+- Id: 42
+  Системные уровни: "Произношение (без картавости, шепелявости и т.д.)\r"
+  Метод: ''
+  Заметки: ''
+  Date: ''
+  CreatedAt: '2024-11-23 18:50:50+00:00'
+  UpdatedAt: ''

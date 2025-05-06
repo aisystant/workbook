@@ -1,0 +1,24 @@
+title: 7-11 "Назначение оргзвеньев на оргроли"
+description: ''
+columns:
+- title: Номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Метод
+  description: ' '
+  uidt: LongText
+  pv: ''
+- title: Роль
+  description: ''
+  uidt: SingleLineText
+  pv: ''
+- title: Date
+  description: ''
+  uidt: Date
+  pv: ''
+- title: Оргзвено
+  description: ''
+  uidt: LongText
+  pv: ''
+rows: []
