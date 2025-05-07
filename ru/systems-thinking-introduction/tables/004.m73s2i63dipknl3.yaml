@@ -1,10 +1,6 @@
 title: 1-4 "Характеристики системы"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Продукт (система)
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Характеристики (предметы интересов)
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Notes
   description: Запишите свои любые заметки

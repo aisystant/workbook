@@ -1,10 +1,6 @@
 title: 1-8 "Заземление абстрактных текстов"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Абстрактный текст
   description: Заполните пустые ячейки
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Граундинг
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Notes
   description: Запишите свои любые заметки

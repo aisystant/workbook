@@ -167,13 +167,17 @@ def build_workbook_columns(column):
     return column_metadata
 
 
-def filter_non_system_columns(columns):
-    """
-    Filter out system columns from a list of columns.
-    """
-    # filter out system columns
-    system_uidt = ["ID", "CreatedTime", "CreatedBy", "LastModifiedTime", "LastModifiedBy", "Order"]
-    return [column for column in columns if column["uidt"] not in system_uidt]
+SKIP_COLUMNS = [
+    "Id",
+    "CreatedAt",
+    "nc_created_by",
+    "UpdatedAt",
+    "nc_updated_by",
+    "nc_order",
+    "LastModifiedBy",
+    "Date",
+    "Номер",
+]
 
 
 def get_table_data(tableId):
@@ -225,11 +229,11 @@ def build_workbook(tableId):
     except Exception as e:
         table_data = []
     # create the workbook
-    columns = filter_non_system_columns(table_metadata["columns"])
+    columns = table_metadata["columns"]
     workbook = {
         "title": table_metadata["title"],
         "description": table_metadata["description"],
-        "columns": [build_workbook_columns(column) for column in columns],
+        "columns": [build_workbook_columns(column) for column in columns if column["title"] not in SKIP_COLUMNS],
         "rows": [clean_row_data(row) for row in table_data],
     }
     return workbook

@@ -1,10 +1,6 @@
 title: 2-2 "Физический мир и ментальное пространство"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Физический мир
   description: Расположите следующие слова по двум столбцам «Физический мир» и «Ментальное
     пространство» (необязательно при этом искать взаимосвязь между рядом стоящими
@@ -16,9 +12,5 @@ columns:
     пространство» (необязательно при этом искать взаимосвязь между рядом стоящими
     словами в таблице)
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 rows: []

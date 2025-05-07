@@ -1,10 +1,6 @@
 title: 7-3 "Квалификация исполнителя"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Предмет разговора
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Чаще всего встречавшиеся понятия
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Дисциплина, в которой эти термины встречаются чаще всего
   description: ''

@@ -1,10 +1,6 @@
 title: 2-3 "Система и её описание"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Система
   description: Заполните пустые ячейки
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Описание система в виде документации
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 rows:
 - Id: 2

@@ -1,10 +1,6 @@
 title: 6-5 "Модели, мета-модели, мульти-модели"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Система
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Пример одной модели
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Мета-модель
   description: ''

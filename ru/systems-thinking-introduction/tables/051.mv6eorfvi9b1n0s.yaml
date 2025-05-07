@@ -13,10 +13,6 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: false
-- title: Date
-  description: ''
-  uidt: Date
-  pv: false
 rows:
 - Id: 7
   Системные уровни: Мероприятия по продвижению продукта

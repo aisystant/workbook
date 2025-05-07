@@ -13,17 +13,9 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: false
-- title: Date
-  description: ''
-  uidt: Date
-  pv: false
 - title: Надсистема
   description: ''
   uidt: LongText
-  pv: false
-- title: Номер
-  description: ''
-  uidt: SingleLineText
   pv: false
 rows:
 - Id: 1

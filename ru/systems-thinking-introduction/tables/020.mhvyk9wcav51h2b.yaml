@@ -1,10 +1,6 @@
 title: 3-5 "Роли, исполняемые начальником"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Роль
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Что именно делается в роли
   description: ' '
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Уровень мастерства актера в этой роли
   description: ''
