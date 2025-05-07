@@ -1,10 +1,6 @@
 title: 1-3 "Мастерство"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Дисциплина
   description: Заполните пустые ячейки
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Название дисциплины
   description: 'Выпишите 1-3 понятий, которые связаны с дисциплиной. '
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Инструменты
   description: ''

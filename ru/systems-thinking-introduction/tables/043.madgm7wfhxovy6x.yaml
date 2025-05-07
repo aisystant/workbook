@@ -1,10 +1,6 @@
 title: 6-4 "Мои роли и мои методы описания"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Моя проектная роль
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Мой метод описания
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Система
   description: ''

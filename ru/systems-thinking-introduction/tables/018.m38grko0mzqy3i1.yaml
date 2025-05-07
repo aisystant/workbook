@@ -1,10 +1,6 @@
 title: 3-3 "Роль, исполнитель, звание и должность"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: ФИО
   description: Заполните пустые ячейки
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Роль
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Должность
   description: ''

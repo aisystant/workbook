@@ -1,10 +1,6 @@
 title: 6-7 "Функциональное и конструктивное описания"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Система
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Функциональные части
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Модульные части
   description: ''

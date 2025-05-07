@@ -13,10 +13,6 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: false
-- title: Date
-  description: ''
-  uidt: Date
-  pv: false
 - title: Мой метод
   description: ''
   uidt: LongText

@@ -1,10 +1,6 @@
 title: 7-6 "Роль, метод и рабочий продукт"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: ФИО
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Проектная роль
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Метод
   description: ''

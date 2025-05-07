@@ -1,10 +1,6 @@
 title: 7-8 "Система и процесс"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Процесс
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Системы
   description: ' '
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Рабочий продукт
   description: ''

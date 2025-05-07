@@ -1,10 +1,6 @@
 title: 2-4 "Воплощение, описание и документация системы"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Воплощение системы
   description: Заполните пустые ячейки
   uidt: LongText
@@ -13,10 +9,6 @@ columns:
   description: 'Выпишите 1-3 других понятий, которые связаны с указанным вами понятием
     и опишите эти связи. '
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Документация системы
   description: ''

@@ -1,10 +1,6 @@
 title: 4-2 "Пять главных типов систем"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Целевая система
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Надсистема
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Системы в окружении
   description: ''

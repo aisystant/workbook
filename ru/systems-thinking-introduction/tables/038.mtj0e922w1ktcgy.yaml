@@ -1,10 +1,6 @@
 title: 5-6 "Распределение времени на три области интересов"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Проект
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Время на работу с областью интереса надсистемы
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Время на работу с областью интереса целевой системы
   description: ''

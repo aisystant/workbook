@@ -1,10 +1,6 @@
 title: 3-6 "Предметы интересов к системе"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Система
   description: Заполните пустые ячейки
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Предмет интересов
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Заметки
   description: ''

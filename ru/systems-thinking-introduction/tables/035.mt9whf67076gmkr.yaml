@@ -14,10 +14,6 @@ columns:
     и опишите эти связи. '
   uidt: SingleLineText
   pv: false
-- title: Date
-  description: ''
-  uidt: Date
-  pv: false
 rows:
 - Id: 1
   Области интересов: Надсистема

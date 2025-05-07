@@ -1,10 +1,6 @@
 title: 7-12 "Примеры кратких описаний проектов"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Целевая система
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Функция целевой системы
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Надсистема
   description: ''

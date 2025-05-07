@@ -1,10 +1,6 @@
 title: 6-6 "Операционная модель, типы мета-модели"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Операционная модель
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Тип из мета-модели
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Тип из мета-мета-модели
   description: ''

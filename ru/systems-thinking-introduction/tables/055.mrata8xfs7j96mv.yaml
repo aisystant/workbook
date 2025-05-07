@@ -1,10 +1,6 @@
 title: 7-9 "Формулировка работы"
 description: ''
 columns:
-- title: Номер
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Исполнитель роли
   description: ''
   uidt: LongText
@@ -12,10 +8,6 @@ columns:
 - title: Срок
   description: ''
   uidt: SingleLineText
-  pv: false
-- title: Date
-  description: ''
-  uidt: Date
   pv: false
 - title: Роль
   description: ''
