@@ -8,41 +8,41 @@ columns:
 - title: Метод
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Исполнитель роли
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Должность
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Организация исполнителя роли
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Мастерство исполнителя в данной роли
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Предмет интереса
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Предпочтение
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Стратегия агента
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

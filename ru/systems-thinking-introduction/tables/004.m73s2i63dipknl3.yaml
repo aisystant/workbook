@@ -8,19 +8,19 @@ columns:
 - title: Продукт (система)
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Характеристики (предметы интересов)
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Notes
   description: Запишите свои любые заметки
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 2
   Номер: '0'

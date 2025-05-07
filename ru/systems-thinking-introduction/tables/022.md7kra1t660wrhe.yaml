@@ -8,34 +8,34 @@ columns:
 - title: Понятия раздела
   description: 'Запишите наиболее запомнившиеся понятия '
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Другие понятия и мои объяснения связи всех понятий
   description: 'Выпишите 1-3 других понятий, которые связаны с указанным вами понятием
     и опишите эти связи. '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Система
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Предмет интереса
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Предпочтение
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Намерение
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

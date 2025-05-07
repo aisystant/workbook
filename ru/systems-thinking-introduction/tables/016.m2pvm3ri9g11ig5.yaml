@@ -8,16 +8,16 @@ columns:
 - title: Понятия раздела
   description: 'Запишите наиболее запомнившиеся понятия '
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Другие понятия и мои объяснения связи всех понятий
   description: 'Выпишите 1-3 других понятий, которые связаны с указанным вами понятием
     и опишите эти связи. '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 rows:
 - Id: 2
   Номер: '1.'

@@ -8,21 +8,21 @@ columns:
 - title: Проект
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Целевая система
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Наша система
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Основная ваша роль в проекте
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

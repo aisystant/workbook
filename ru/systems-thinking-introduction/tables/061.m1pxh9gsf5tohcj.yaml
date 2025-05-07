@@ -8,31 +8,31 @@ columns:
 - title: Что дает квалификация AISYSTANT (для сведения)
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Пройдены курсы
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Год присвоения квалификации
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Оценка текущего жизненного мастерства
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Что надо сделать, чтобы получить следующие квалификации
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Квалификация Aisystant: ''

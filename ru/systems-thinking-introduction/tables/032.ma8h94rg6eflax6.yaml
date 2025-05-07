@@ -8,23 +8,23 @@ columns:
 - title: Сервис-провайдер
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Целевая система сервис-провайдера
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Надсистема
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Номер
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Сервис: 'Пример: Стрижка'

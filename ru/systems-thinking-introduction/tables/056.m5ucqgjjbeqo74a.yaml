@@ -8,19 +8,19 @@ columns:
 - title: Пример с автомобилем
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: 'Пример: Aisystant Corp'
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Ваше предприятие
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 7
   Области интересов: Область интересов надсистемы

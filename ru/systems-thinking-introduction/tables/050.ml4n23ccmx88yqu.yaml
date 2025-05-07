@@ -8,22 +8,22 @@ columns:
 - title: Деятельностная роль
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Метод
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Состоите ли вы в профессиональной ассоциации (укажите, какой и проставьте,
     сколько лет платите взносы)
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

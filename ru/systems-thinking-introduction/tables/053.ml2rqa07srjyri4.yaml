@@ -8,19 +8,19 @@ columns:
 - title: Стадии
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Методы
   description: ' '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Рабочий продукт
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 43
   Номер: '0'

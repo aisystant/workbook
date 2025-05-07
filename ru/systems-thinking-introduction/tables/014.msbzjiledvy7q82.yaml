@@ -8,17 +8,17 @@ columns:
 - title: Функциональный/ролевой объект
   description: Заполните пустые ячейки
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Функция/Ролевое поведение
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Конструктивный/Физический объект
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

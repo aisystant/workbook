@@ -8,23 +8,23 @@ columns:
 - title: ФИО
   description: Заполните пустые ячейки
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Роль
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Название проекта
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 2
   Номер: '0'

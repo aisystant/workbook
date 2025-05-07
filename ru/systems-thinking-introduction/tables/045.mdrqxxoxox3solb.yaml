@@ -8,21 +8,21 @@ columns:
 - title: Операционная модель
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Тип из мета-модели
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Тип из мета-мета-модели
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

@@ -8,31 +8,31 @@ columns:
 - title: Исполнитель роли
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Срок
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Роль
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Метод
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Ресурс
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Рабочий продукт
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Номер: '0'
