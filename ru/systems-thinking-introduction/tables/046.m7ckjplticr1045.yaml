@@ -8,17 +8,17 @@ columns:
 - title: Система
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Функциональные части
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Модульные части
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

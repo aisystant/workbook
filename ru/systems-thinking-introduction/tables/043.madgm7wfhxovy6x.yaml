@@ -8,31 +8,31 @@ columns:
 - title: Моя проектная роль
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Мой метод описания
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Система
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Документация
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Предмет интереса
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Проектная роль для кого документация
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Номер: '0'

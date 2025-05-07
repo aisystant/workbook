@@ -8,19 +8,19 @@ columns:
 - title: Процент работы аналитика
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Процент работы инженера
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 7
   Процент проектного времени: 'Всего по строке - 100%, в т.ч: '

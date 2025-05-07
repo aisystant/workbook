@@ -8,23 +8,23 @@ columns:
 - title: ФИО
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Проектная роль
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Метод
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Рабочий продукт
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Номер: '0'

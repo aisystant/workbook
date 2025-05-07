@@ -8,13 +8,13 @@ columns:
 - title: Описываемая целевая система
   description: 'Запишите наиболее запомнившиеся понятия '
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 rows: []

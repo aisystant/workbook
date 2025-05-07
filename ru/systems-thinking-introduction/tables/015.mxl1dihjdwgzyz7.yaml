@@ -8,15 +8,15 @@ columns:
 - title: Название системы
   description: Заполните пустые ячейки
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Подсистемы
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 rows:
 - Id: 2
   Номер: '0'

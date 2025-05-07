@@ -8,33 +8,33 @@ columns:
 - title: Целевая система
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Функция целевой системы
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Надсистема
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Системы в ближнем окружении
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Внешние проектные роли
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Примеры потребностей
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Примеры систем создания
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

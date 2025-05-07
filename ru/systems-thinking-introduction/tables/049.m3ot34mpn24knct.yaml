@@ -8,35 +8,35 @@ columns:
 - title: Предмет разговора
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Чаще всего встречавшиеся понятия
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Дисциплина, в которой эти термины встречаются чаще всего
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Роль сотрудника
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Квалификация сотрудника в указанном методе (владение дисциплиной)
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Ваша квалификация в указанном методе (владение дисциплиной)
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Номер: '0'

@@ -8,19 +8,19 @@ columns:
 - title: Процесс
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Системы
   description: ' '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Рабочий продукт
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Номер: '0'

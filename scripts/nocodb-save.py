@@ -162,7 +162,7 @@ def build_workbook_columns(column):
         "title": column["title"] or "",
         "description": column["description"] or "",
         "uidt": column["uidt"] or "",
-        "pv": column["pv"] or "",
+        "pv": column["pv"] or False,
     }
     return column_metadata
 

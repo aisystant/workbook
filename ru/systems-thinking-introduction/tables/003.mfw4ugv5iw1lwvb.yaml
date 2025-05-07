@@ -8,23 +8,23 @@ columns:
 - title: Дисциплина
   description: Заполните пустые ячейки
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Название дисциплины
   description: 'Выпишите 1-3 понятий, которые связаны с дисциплиной. '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Инструменты
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Notes
   description: Запишите свои любые заметки
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 2
   Номер: Пример

@@ -8,25 +8,25 @@ columns:
 - title: Система
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Пример одной модели
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Мета-модель
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Мульти-модель
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Мега-модель
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

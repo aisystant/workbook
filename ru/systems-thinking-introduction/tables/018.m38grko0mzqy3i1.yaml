@@ -8,29 +8,29 @@ columns:
 - title: ФИО
   description: Заполните пустые ячейки
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Роль
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Должность
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Notes
   description: Запишите свои любые заметки
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Звание
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Квалификация исполнителя
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

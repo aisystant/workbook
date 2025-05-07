@@ -8,21 +8,21 @@ columns:
 - title: Название внешней проектной роли
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Ролевой интерес и предпочтение
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Ваше ожидание, что предпочтение будет соблюдено
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []
