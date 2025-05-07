@@ -8,25 +8,25 @@ columns:
 - title: Проект
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Время на работу с областью интереса надсистемы
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Время на работу с областью интереса целевой системы
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Время на работу с областью интересов систем создания
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

@@ -8,19 +8,19 @@ columns:
 - title: Предприниматель
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Инженер
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Менеджер
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Области интересов: Область интереса надсистемы

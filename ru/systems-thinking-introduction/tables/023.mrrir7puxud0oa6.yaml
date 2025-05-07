@@ -8,33 +8,33 @@ columns:
 - title: Актер (ФИО)
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Что делает (в порядке убывания затрачиваемого времени)
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Список выполняемых ролей для этих деятельностей
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Должность
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Какие роли хочет выполнять
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Прогноз карьеры (в свободной форме)
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

@@ -8,15 +8,15 @@ columns:
 - title: Метод
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 rows:
 - Id: 7
   Системные уровни: Мероприятия по продвижению продукта

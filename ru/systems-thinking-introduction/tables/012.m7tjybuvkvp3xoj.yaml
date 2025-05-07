@@ -8,18 +8,18 @@ columns:
 - title: Воплощение системы
   description: Заполните пустые ячейки
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Описание системы
   description: 'Выпишите 1-3 других понятий, которые связаны с указанным вами понятием
     и опишите эти связи. '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Документация системы
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

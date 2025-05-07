@@ -8,17 +8,17 @@ columns:
 - title: Абстрактный текст
   description: Заполните пустые ячейки
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Граундинг
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Notes
   description: Запишите свои любые заметки
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

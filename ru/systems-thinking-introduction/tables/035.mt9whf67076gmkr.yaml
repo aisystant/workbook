@@ -8,16 +8,16 @@ columns:
 - title: Пример описания
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Ваше описание проекта или предприятия
   description: 'Выпишите 1-3 других понятий, которые связаны с указанным вами понятием
     и опишите эти связи. '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Области интересов: Надсистема

@@ -8,21 +8,21 @@ columns:
 - title: Документ
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: О чем
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Роль создателя
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Для кого
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

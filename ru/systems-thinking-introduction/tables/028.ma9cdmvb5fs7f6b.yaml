@@ -8,27 +8,27 @@ columns:
 - title: Целевая система
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Надсистема
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Системы в окружении
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Подсистемы
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Системы создания
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 rows:
 - Id: 1
   Номер: '0'

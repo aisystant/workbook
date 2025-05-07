@@ -8,23 +8,23 @@ columns:
 - title: Продукт предприятия
   description: Заполните пустые ячейки
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Главная функция системы
   description: ' '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Прочие функции
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Notes
   description: Запишите свои любые заметки
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 2
   Номер: '0'

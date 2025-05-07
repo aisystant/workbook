@@ -8,27 +8,27 @@ columns:
 - title: Роль
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Что именно делается в роли
   description: ' '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Уровень мастерства актера в этой роли
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Процент времени, находящийся в роли
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows:
 - Id: 2
   Номер: '1.'

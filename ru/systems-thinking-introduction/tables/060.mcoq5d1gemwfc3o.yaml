@@ -8,29 +8,29 @@ columns:
 - title: Оценка вашего текущего мастерства по десятибалльной шкале
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: В том числе научили в вузе
   description: ' '
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: В том числе научился сам до поступления в AISYSTANT
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Год версии дисциплины, изученной до AISYSTANT
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: В т.ч. научился в Aisystant
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

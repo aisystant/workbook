@@ -8,17 +8,17 @@ columns:
 - title: Метод
   description: ' '
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Роль
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Оргзвено
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 rows: []

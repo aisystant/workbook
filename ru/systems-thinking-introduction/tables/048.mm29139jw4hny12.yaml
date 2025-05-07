@@ -8,33 +8,33 @@ columns:
 - title: Ваша деятельностная роль
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Часы проведенные в роли в ходе работы
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 - title: Date
   description: ''
   uidt: Date
-  pv: ''
+  pv: false
 - title: Используемые методы
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Откуда знаете дисциплину
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Какие инструменты задействовали в поддержку дисциплины
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Лучший альтернативный метод
   description: ''
   uidt: LongText
-  pv: ''
+  pv: false
 - title: Заметки
   description: ''
   uidt: SingleLineText
-  pv: ''
+  pv: false
 rows: []
