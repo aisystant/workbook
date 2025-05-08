@@ -1,0 +1,57 @@
+title: 5-6 "Распределение времени на три области интересов"
+description: ''
+columns:
+- title: Title
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Проекты
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Время на работу с областью интереса надсистемы
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Время на работе с областью интереса целевой системы
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Время на работу с системами создания
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - ''
+  - "Ознакомься с примером заполнения\r"
+  - 'Пример: Проект строительства дачи'
+  - 40%
+  - 40%
+  - 'Проект еще не завершен, на следующих этапах работ основное время будет затрачено
+    на менеджерскую область интересов.  '
+  - 20%
+  2:
+  - ''
+  - Приведи пример из рабочего проекта
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  3:
+  - ''
+  - Приведи пример из личного проекта
+  - ''
+  - ''
+  - ''
+  - "\r"
+  - ''

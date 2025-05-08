@@ -1,0 +1,54 @@
+title: 7-5 "Методы и системные уровни"
+description: ''
+columns:
+- title: номер
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Метод
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Системные уровни
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  7:
+  - '1'
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  - Мероприятия по продвижению продукта
+  40:
+  - '2'
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  - Презентация продукта вживую, убедительная речь
+  41:
+  - '3'
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  - Разборчивая и выразительная речь
+  42:
+  - '4'
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  - "Произношение (без картавости, шепелявости и т.д.)\r"
+  75:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''

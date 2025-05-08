@@ -1,0 +1,50 @@
+title: 7-4 "Профессиональные сообщества по sota-методам"
+description: ''
+columns:
+- title: Title
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Роль
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Метод
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Состоите ли вы в профессиональной ассоциации (укажите, какой и проставьте,
+    сколько лет платите взносы)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - ''
+  - "Ознакомься с примером заполнения\r"
+  - 'Пример: Операционный менеджер'
+  - Проектное управление
+  - ' Не состою, но давно наблюдаю. '
+  - 'Понял, что надо принимать активное участие, а не просто наблюдать. '
+  2:
+  - ''
+  - Приведи пример из рабочего проекта
+  - ''
+  - ''
+  - ''
+  - ''
+  3:
+  - ''
+  - Приведи пример из личного проекта
+  - ''
+  - ''
+  - ''
+  - ''

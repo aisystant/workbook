@@ -1,0 +1,48 @@
+title: 3-9 "Работа аналитика"
+description: ''
+columns:
+- title: Процент работы аналитика
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Процент работы инженера
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Заметки
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: '% проектного времени'
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  40:
+  - ''
+  - ''
+  - ''
+  - Заполни пустые ячейки
+  - время на рабочие проектах, в сумме по строке - 100%
+  41:
+  - ''
+  - "\r"
+  - ''
+  - Заполни пустые ячейки
+  - время на личные проекты, в сумме по строке - 100%
+  42:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Всего по каждой строке - 100%,
+  43:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''

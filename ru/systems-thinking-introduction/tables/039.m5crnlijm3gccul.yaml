@@ -1,0 +1,48 @@
+title: 5-7 "Таблица 3х3"
+description: ''
+columns:
+- title: Предприниматель
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Инженер
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Менеджер
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Области интересов
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  - Область интереса надсистемы
+  2:
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  - 'Область интереса целевой системы '
+  3:
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  - "Область интереса систем создания\r"
+  40:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
