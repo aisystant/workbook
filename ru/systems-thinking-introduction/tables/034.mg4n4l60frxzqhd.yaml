@@ -9,4 +9,4 @@ columns:
   description: ''
   uidt: LongText
   pv: false
-rows: []
+rows: {}

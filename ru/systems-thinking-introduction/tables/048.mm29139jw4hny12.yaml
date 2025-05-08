@@ -29,4 +29,4 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: false
-rows: []
+rows: {}
