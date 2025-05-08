@@ -167,6 +167,26 @@ def build_workbook_columns(column):
     return column_metadata
 
 
+def build_workbook_row_tuple(row, columns):
+    """
+    Build a row tuple from a row data and columns.
+    """
+    row_id = row["Id"]
+    data = []
+    for column in columns:
+        column_name = column["title"]
+        # skip columns that are not in the row data
+        if column_name not in row:
+            value = ""
+        # get the value from the row data
+        value = row[column_name]
+        if value is None:
+            value = ""
+        # add the value to the data dictionary
+        data.append(value)
+    return (row_id, data)
+
+
 SKIP_COLUMNS = [
     "Id",
     "CreatedAt",
@@ -230,11 +250,12 @@ def build_workbook(tableId):
         table_data = []
     # create the workbook
     columns = table_metadata["columns"]
+    filtered_columns = [column for column in columns if column["title"] not in SKIP_COLUMNS]
     workbook = {
         "title": table_metadata["title"],
         "description": table_metadata["description"],
-        "columns": [build_workbook_columns(column) for column in columns if column["title"] not in SKIP_COLUMNS],
-        "rows": [clean_row_data(row) for row in table_data],
+        "columns": [build_workbook_columns(column) for column in filtered_columns],
+        "rows": dict([build_workbook_row_tuple(row, filtered_columns) for row in table_data]),
     }
     return workbook
 

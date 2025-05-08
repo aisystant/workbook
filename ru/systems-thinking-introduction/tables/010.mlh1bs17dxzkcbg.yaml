@@ -13,4 +13,4 @@ columns:
     словами в таблице)
   uidt: SingleLineText
   pv: false
-rows: []
+rows: {}

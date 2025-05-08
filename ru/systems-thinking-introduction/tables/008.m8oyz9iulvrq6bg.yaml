@@ -13,4 +13,4 @@ columns:
   description: Запишите свои любые заметки
   uidt: LongText
   pv: false
-rows: []
+rows: {}
