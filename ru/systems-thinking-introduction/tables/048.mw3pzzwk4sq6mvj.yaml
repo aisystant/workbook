@@ -1,0 +1,81 @@
+title: '7-2 "Метод: дисциплина и инструменты"'
+description: ''
+columns:
+- title: Title
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Ваша роль
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Часы, проведенные в роли
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Используемый метод
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Откуда знаете дисциплину
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Какие инструменты задействовали в поддержку дисциплины
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Лучший альтернативный метод
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - ''
+  - "Ознакомься с примером заполнения\r"
+  - ' Написание книги '
+  - ' 1000 часов'
+  - Мышление письмом
+  - Книга Зонке Аренс “Как делать полезные заметки. Эффективная система организации
+    идей по методу Zettelkasten”
+  - ' Coda.io, Заметки в смартфоне, ...'
+  - ' Мышление проговариванием '
+  - Мышление проговариванием использую не вместо, а дополнительно к мышлению письмом.
+  2:
+  - ''
+  - "Ознакомься с примером заполнения\r"
+  - Разработчик программного обеспечения
+  - 2000 часов
+  - Итеративная разработка (Agile)
+  - Курс "CS50" от Гарварда, книга "Чистый код" Роберта Мартина
+  - Visual Studio Code, Git, Jira
+  - Тест-ориентированная разработка (TDD
+  - ''
+  3:
+  - ''
+  - "Приведи пример из рабочего проекта\r"
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  9:
+  - ''
+  - Приведи пример из личного проекта
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
