@@ -116,17 +116,89 @@ def nocodb_create_table(base_id, title, description, columns):
         "columns": columns
     }
     response = nocodb_api_call("POST", endpoint, data)
+    return response["id"]
+
+
+def set_pv_if_not_exists(columns):
+    """
+    If no any column has the property "pv" set it to true, set it to true for the first column.
+    """
+    for column in columns:
+        if column.get("pv"):
+            return columns
+    # set the first column to pv
+    columns[0]["pv"] = True
+    return columns
+
+
+def add_id_column_if_not_exists(columns):
+    """
+    If no any column has the property "id" set it to true, set it to true for the first column.
+    """
+    for column in columns:
+        if column.get("title") == "Id":
+            return columns
+    # set the first column to id
+    id_column = {
+        "title": "Id",
+        "uidt": "ID",
+    }
+    columns.insert(0, id_column)
+    return columns
+
+
+def set_id_for_row(row, row_id):
+    """
+    Set the ID for the row.
+    """
+    row.insert(0, row_id)
+    return row
+
+
+def nocodb_add_row(table_id, data):
+    """
+    Add a new row to the NocoDB table.
+
+    POST http://localhost:8080/api/v2/tables/{tableId}/records
+    """
+    endpoint = f"api/v2/tables/{table_id}/records"
+    response = nocodb_api_call("POST", endpoint, data)
     return response
+
+
+def escape_string(s):
+    return s.encode('unicode_escape').decode('ascii')
+
+
+def build_nocodb_row(columns, row):
+    """
+    Build the NocoDB row from the columns and the row data.
+    """
+    nocodb_row = {}
+    for column, value in zip(columns, row):
+        title = column["title"]
+        nocodb_row[title] = value
+    return nocodb_row
 
 
 def publish_table_to_nocodb(base_id, table_metadata):
     logging.info(f"Publishing table: {table['title']}")
-    nocodb_create_table(
+    colimns_with_pv = set_pv_if_not_exists(table_metadata["columns"])
+    columns_with_id = add_id_column_if_not_exists(colimns_with_pv)
+    table_id = nocodb_create_table(
         base_id,
         title=table_metadata["title"],
         description=table_metadata.get("description", ""),
-        columns=table_metadata["columns"]
+        columns=columns_with_id
     )
+    rows = table_metadata.get("rows", dict())
+    for row_id, row in rows.items():
+        # set the ID for the row
+        row_with_id = set_id_for_row(row, row_id)
+        nocodb_row = build_nocodb_row(columns_with_id, row_with_id)
+        logging.info(f"Adding row: {nocodb_row}")
+        res = nocodb_add_row(table_id, nocodb_row)
+        logging.info(f"Row added: {res}")
     logging.info(f"Table {table['title']} published successfully.")
     return
 
@@ -167,4 +239,4 @@ tables = get_workbook_tables(workbook_path)
 for table in tables:
     publish_table_to_nocodb(base_id, table)
     # Uncomment the following line to stop after the first table
-    break
+    # break
