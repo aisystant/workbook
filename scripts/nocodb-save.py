@@ -179,10 +179,12 @@ def build_workbook_row_tuple(row, columns):
         # skip columns that are not in the row data
         if column_name not in row:
             value = ""
-        # get the value from the row data
+        # get the value from the row data and strip it
         value = row[column_name]
         if value is None:
             value = ""
+        if column["uidt"] == "SingleLineText" or column["uidt"] == "LongText":
+            value = value.strip()
         # add the value to the data dictionary
         data.append(value)
     return (row_id, data)
