@@ -5,10 +5,6 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: true
-- title: Указание
-  description: ''
-  uidt: SingleLineText
-  pv: false
 - title: Роль
   description: ''
   uidt: SingleLineText
@@ -26,25 +22,29 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: false
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
 rows:
   1:
   - ''
-  - "Ознакомься с примером заполнения\r"
   - 'Пример: Операционный менеджер'
   - Проектное управление
   - ' Не состою, но давно наблюдаю. '
   - 'Понял, что надо принимать активное участие, а не просто наблюдать. '
+  - "Ознакомься с примером заполнения\r"
   2:
   - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - Приведи пример из рабочего проекта
-  - ''
-  - ''
-  - ''
-  - ''
   3:
   - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - Приведи пример из личного проекта
-  - ''
-  - ''
-  - ''
-  - ''

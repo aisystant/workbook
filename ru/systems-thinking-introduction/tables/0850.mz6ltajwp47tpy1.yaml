@@ -5,15 +5,15 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: true
-- title: Указание
-  description: ''
-  uidt: SingleLineText
-  pv: false
 - title: Моя роль
   description: ''
   uidt: SingleLineText
   pv: false
 - title: Проект
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Целевая систем/Наша система
   description: ''
   uidt: SingleLineText
   pv: false
@@ -25,10 +25,6 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: false
-- title: Целевая систем/Наша система
-  description: ''
-  uidt: SingleLineText
-  pv: false
 - title: Степень прикладного мастерства
   description: ''
   uidt: SingleLineText
@@ -37,14 +33,18 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: false
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
 rows:
   1:
   - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - Заполни пустые ячейки
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''

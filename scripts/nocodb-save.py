@@ -12,6 +12,7 @@ import logging
 import dotenv
 import argparse
 import yaml
+import time
 
 
 # configure logging
@@ -251,11 +252,12 @@ def build_workbook(tableId):
     # create the workbook
     columns = table_metadata["columns"]
     filtered_columns = [column for column in columns if column["title"] not in SKIP_COLUMNS]
+    ordered_columns = sorted(filtered_columns, key=lambda x: x.get("meta", {}).get("defaultViewColOrder"))
     workbook = {
         "title": table_metadata["title"],
         "description": table_metadata["description"],
-        "columns": [build_workbook_columns(column) for column in filtered_columns],
-        "rows": dict([build_workbook_row_tuple(row, filtered_columns) for row in table_data]),
+        "columns": [build_workbook_columns(column) for column in ordered_columns],
+        "rows": dict([build_workbook_row_tuple(row, ordered_columns) for row in table_data]),
     }
     return workbook
 
@@ -318,3 +320,4 @@ for table in bases:
         continue
     # Uncomment to stop after the first table
     # break
+    time.sleep(0.2)

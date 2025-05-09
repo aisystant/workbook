@@ -5,10 +5,6 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: true
-- title: Указание
-  description: ''
-  uidt: SingleLineText
-  pv: false
 - title: ФИО
   description: ''
   uidt: SingleLineText
@@ -41,10 +37,13 @@ columns:
   description: ''
   uidt: SingleLineText
   pv: false
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
 rows:
   1:
   - ''
-  - Ознакомься с примером заполнения
   - Джессика Паркер
   - Программирует, пишет код; Организует свой график работы; Отчитывается о проделанной
     работе
@@ -55,17 +54,18 @@ rows:
   - 'Карьера должна пойти в гору через три месяца после окончания курса системного
     мышления.  '
   - ''
+  - Ознакомься с примером заполнения
   10:
   - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - Заполни пустые ячейки о себе
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
   22:
   - ''
   - ''
