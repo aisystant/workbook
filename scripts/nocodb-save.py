@@ -266,7 +266,8 @@ def get_table_filename(table_metadata):
 
     Example: {000.order}-table.id
     """
-    return f"{table_metadata['order']:03d}.{table_metadata['id']}.yaml"
+    order = int(table_metadata['order'] * 10)
+    return f"{order:04d}.{table_metadata['id']}.yaml"
     
 
 def process_table(table):

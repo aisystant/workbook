@@ -1,0 +1,66 @@
+title: 2-2 "Физический мир и ментальное пространство"
+description: ''
+columns:
+- title: Title
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Физический мир
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Ментальное пространство
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - '1'
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  2:
+  - '2'
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  3:
+  - '3'
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  4:
+  - '4'
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  5:
+  - '5'
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  6:
+  - '6'
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - "Заполни пустые ячейки\r"

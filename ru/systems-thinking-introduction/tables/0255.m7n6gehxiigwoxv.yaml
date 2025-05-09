@@ -1,0 +1,132 @@
+title: 3-10 "Кто был на последнем совещании"
+description: ''
+columns:
+- title: Title
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Роль
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Метод роли
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: ФИО
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Должность
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Организация исполнителя
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Мастерство исполнителя в данной роли
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Предмет интереса
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Предпочтение
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Стратегия агента
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  9:
+  - ''
+  - Ознакомься с примером заполнения
+  - 'Операционный менеджер '
+  - Управление командой и сроками
+  - Джессика Том
+  - Менеджер проекта
+  - ОАО «Техсистемы»
+  - Среднее (7/10)
+  - Скорость работы команды
+  - Увеличение скорости на 10%
+  - Добавить еще одного человека в команду
+  - ''
+  10:
+  - ''
+  - Ознакомься с примером заполнения
+  - Владелец продукта
+  - Product Discovery
+  - '
+
+    Джон Смит'
+  - Продакт-менеджер
+  - ОАО "Инновации"
+  - Высокое (9/10)
+  - Удобство интерфейса,
+  - Улучшить удобство
+  - Провести исследование
+  - ''
+  11:
+  - ''
+  - "Заполни пустые ячейки\r"
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  12:
+  - ''
+  - "Заполни пустые ячейки\r"
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  13:
+  - ''
+  - "Заполни пустые ячейки\r"
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  14:
+  - ''
+  - "Заполни пустые ячейки\r"
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''

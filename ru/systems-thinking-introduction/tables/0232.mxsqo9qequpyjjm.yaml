@@ -1,0 +1,79 @@
+title: 3-8 "Выявление ролей и ролевых ожиданий"
+description: ''
+columns:
+- title: Title
+  description: ''
+  uidt: SingleLineText
+  pv: true
+- title: Указание
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: ФИО
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Что делает (в порядке убывания затрачиваемого времени)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Список выполняемых ролей для этих деятельностей
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Должность
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Какие роли хочет выполнять
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Какие роли не хочет выполнять
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Прогноз карьеры (в свободной форме)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Заметки
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - ''
+  - Ознакомься с примером заполнения
+  - Джессика Паркер
+  - Программирует, пишет код; Организует свой график работы; Отчитывается о проделанной
+    работе
+  - Программист; Операционный менеджер по отношению к себе; Составитель отчета
+  - Старший программист
+  - Менеджер по развитию
+  - 'Программист '
+  - 'Карьера должна пойти в гору через три месяца после окончания курса системного
+    мышления.  '
+  - ''
+  10:
+  - ''
+  - Заполни пустые ячейки о себе
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  22:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
