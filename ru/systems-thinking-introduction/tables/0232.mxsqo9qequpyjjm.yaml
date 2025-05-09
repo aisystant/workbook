@@ -1,10 +1,6 @@
 title: 3-8 "Выявление ролей и ролевых ожиданий"
 description: ''
 columns:
-- title: Title
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: ФИО
   description: ''
   uidt: SingleLineText
@@ -43,7 +39,6 @@ columns:
   pv: false
 rows:
   1:
-  - ''
   - Джессика Паркер
   - Программирует, пишет код; Организует свой график работы; Отчитывается о проделанной
     работе
@@ -64,10 +59,8 @@ rows:
   - ''
   - ''
   - ''
-  - ''
   - Заполни пустые ячейки о себе
   22:
-  - ''
   - ''
   - ''
   - ''

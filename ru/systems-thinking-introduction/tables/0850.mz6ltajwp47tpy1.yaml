@@ -1,10 +1,6 @@
 title: 7-13 "Мои роли, методы и приоритетные проекты"
 description: ''
 columns:
-- title: Title
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Моя роль
   description: ''
   uidt: SingleLineText
@@ -39,7 +35,6 @@ columns:
   pv: false
 rows:
   1:
-  - ''
   - ''
   - ''
   - ''

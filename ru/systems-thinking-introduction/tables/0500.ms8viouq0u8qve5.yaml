@@ -1,10 +1,6 @@
 title: 7-4 "Профессиональные сообщества по sota-методам"
 description: ''
 columns:
-- title: Title
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Роль
   description: ''
   uidt: SingleLineText
@@ -28,7 +24,6 @@ columns:
   pv: false
 rows:
   1:
-  - ''
   - 'Пример: Операционный менеджер'
   - Проектное управление
   - ' Не состою, но давно наблюдаю. '
@@ -39,10 +34,8 @@ rows:
   - ''
   - ''
   - ''
-  - ''
   - Приведи пример из рабочего проекта
   3:
-  - ''
   - ''
   - ''
   - ''

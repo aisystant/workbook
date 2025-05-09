@@ -1,10 +1,6 @@
 title: 5-6 "Распределение времени на три области интересов"
 description: ''
 columns:
-- title: Title
-  description: ''
-  uidt: SingleLineText
-  pv: true
 - title: Проекты
   description: ''
   uidt: SingleLineText
@@ -31,7 +27,6 @@ columns:
   pv: false
 rows:
   1:
-  - ''
   - 'Пример: Проект строительства дачи'
   - 40%
   - 40%
@@ -44,11 +39,9 @@ rows:
   - ''
   - ''
   - ''
-  - ''
   - Приведи пример из рабочего проекта
   - ''
   3:
-  - ''
   - ''
   - ''
   - ''

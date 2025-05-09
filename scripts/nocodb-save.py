@@ -198,6 +198,7 @@ SKIP_COLUMNS = [
     "LastModifiedBy",
     "Date",
     "Номер",
+    "Title",
 ]
 
 
