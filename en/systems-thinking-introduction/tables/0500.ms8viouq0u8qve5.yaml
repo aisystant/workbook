@@ -1,0 +1,42 @@
+title: 7-4 "Professional Communities for SOTA Methods"
+description: ''
+columns:
+- title: Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Method
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Are you a member of a professional association (specify which one and how many years you have been paying dues)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - 'Example: Operations Manager'
+  - Project Management
+  - I am not, but I've been observing for a long time.
+  - Realized I need to actively participate, not just observe.
+  - Review the sample completion
+  2:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  3:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

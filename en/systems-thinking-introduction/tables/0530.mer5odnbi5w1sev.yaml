@@ -1,0 +1,65 @@
+title: 7-7 "Stages and Methods"
+description: ''
+columns:
+- title: Stages
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Methods
+  description: ' '
+  uidt: SingleLineText
+  pv: false
+- title: Work Artifact
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  43:
+  - Information Consumption (in educational activities)
+  - Systematic Reading, Watching YouTube
+  - Read books, compiled notes,
+  - Refer to the example for completion
+  44:
+  - Reflection (in educational activities)
+  - Thinking through writing, Thinking by speaking
+  - Drafts, personal knowledge base in coda,
+  - Refer to the example for completion
+  45:
+  - ''
+  - Personal Planning
+  - ''
+  - Fill in the empty cells
+  46:
+  - Diagnosis (in treatment)
+  - ''
+  - ''
+  - Fill in the empty cells
+  47:
+  - Conception (in car manufacturing)
+  - ''
+  - ''
+  - Fill in the empty cells
+  48:
+  - Assembly (in car manufacturing)
+  - ''
+  - ''
+  - Fill in the empty cells
+  49:
+  - ''
+  - Plastering, Priming, Painting walls
+  - ''
+  - Fill in the empty cells
+  82:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  83:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

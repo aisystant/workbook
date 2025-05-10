@@ -1,0 +1,72 @@
+title: 2-3 "System and Its Description"
+description: ''
+columns:
+- title: System
+  description: Fill in the blank cells
+  uidt: LongText
+  pv: false
+- title: System Description in the Form of Documentation
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  2:
+  - Conveyor Line Machine
+  - User Manual
+  - Get acquainted with the example
+  3:
+  - Mercedes E-Class Car
+  - 3D model of the car's design in the computer
+  - Get acquainted with the example
+  4:
+  - Theater
+  - In central Moscow, in one of the clubs from 22:13 to 22:18, loud music plays, there's dim lighting, and two people are dancing salsa.
+  - Get acquainted with the example
+  5:
+  - Tomato
+  - ''
+  - Fill in the blank cells
+  6:
+  - ''
+  - Photograph
+  - Fill in the blank cells
+  7:
+  - IT system 1C
+  - ''
+  - Fill in the blank cells
+  40:
+  - ''
+  - Construction project of the "Distant Lands" cottage settlement
+  - Fill in the blank cells
+  41:
+  - Mercedes E-Class Car
+  - ''
+  - Fill in the blank cells
+  42:
+  - ''
+  - Marketing Brochure
+  - Fill in the blank cells
+  43:
+  - Windows 11
+  - ''
+  - Fill in the blank cells
+  44:
+  - ''
+  - Passport
+  - Fill in the blank cells
+  45:
+  - ''
+  - Business Plan
+  - Fill in the blank cells
+  46:
+  - ''
+  - ''
+  - Provide an example from a work project
+  47:
+  - ''
+  - ''
+  - Provide an example from a personal project

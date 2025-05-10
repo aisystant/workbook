@@ -1,0 +1,88 @@
+title: 6-2 "Role, System, Subject of Interest, Description Method"
+description: ''
+columns:
+- title: System
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Project Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Subject of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Description Method
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Work Artifact
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Vehicle
+  - Safety Custodian (function – self-preservation).
+  - Safety
+  - Computer simulation of a “Crash test”
+  - Computer model
+  - ''
+  - Familiarize yourself with the filled example
+  2:
+  - Vehicle
+  - ''
+  - Acceleration
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - ''
+  - ''
+  - Accounting
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Financial reporting for shareholders
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - Operations Manager
+  - Net profit
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

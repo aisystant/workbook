@@ -1,0 +1,85 @@
+title: 2-5 "Description and Description Method (Practice)"
+description: ''
+columns:
+- title: System
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System Description
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Description Method
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Enterprise
+  - Taxes
+  - Accounting
+  - ''
+  - Familiarize yourself with the example completion
+  2:
+  - Enterprise
+  - Dividends
+  - IFRS or US GAAP
+  - ''
+  - Familiarize yourself with the example completion
+  4:
+  - City
+  - Current and future development, infrastructure, natural resources, and terrain, as well as
+    other descriptions contained in the "General Plan" document
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - Forest
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - Logistics
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - Diagnosis, prescriptions, procedures
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - ''
+  - ''
+  - Geodesy, cadastral registration
+  - ''
+  - Fill in the empty cells
+  9:
+  - ''
+  - Roads, signs, settlements
+  - ''
+  - ''
+  - Fill in the empty cells
+  10:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  11:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

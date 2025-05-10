@@ -1,0 +1,104 @@
+title: 5-5 "Creation Chains"
+description: ''
+columns:
+- title: Project Name
+  description: ''
+  uidt: LongText
+  pv: false
+- title: System of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Supersystem
+  description: ''
+  uidt: LongText
+  pv: false
+- title: First in the Chain Creating System (directly changing the target)
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Second in the Chain Creating System ("development department", initiator and organizer of the project)
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Third in the Chain Creating System (organizer of the development department)
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Mercedes E-Class Car Creation Project
+  - Mercedes E-Class
+  - Trip
+  - Car factory with an assembly line
+  - Builders and designers of the car factory
+  - Organizational development department of Mercedes Corporation
+  - Familiarize yourself with the example
+  2:
+  - ''
+  - Kitchen table
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - Hairstyle
+  - ''
+  - Hairdressing salon
+  - ''
+  - Team of like-minded individuals planning to start a business in the beauty industry
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Project institute, Construction company, Road Maintenance Department
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - ''
+  - 'Taxi: driver+car'
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - ''
+  - Movie on a cinema screen
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - Drone Creation Project
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  40:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  41:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

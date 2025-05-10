@@ -1,0 +1,126 @@
+title: 4-2 "Five Main Types of Systems"
+description: ''
+columns:
+- title: System of Interest
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Supersystem
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Creation Systems
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Surrounding Systems
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Subsystems
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Mercedes E-Class Car
+  - 'Taxi: Mercedes E-Class Car + Driver'
+  - 'Automotive Corporation: design bureau, car factory, dealers, etc.'
+  - Driver, Road, Pedestrian
+  - Interior, Chassis, Engine
+  - Refer to the example for guidance
+  2:
+  - Office Desk
+  - ''
+  - ''
+  - ''
+  - Desktop
+  - Fill in the empty cells
+  3:
+  - ''
+  - Left wrist with a watch
+  - Watchmaker
+  - Suit, shirt, cufflinks.
+  - ''
+  - Fill in the empty cells
+  4:
+  - Wall Clock
+  - ''
+  - ''
+  - ''
+  - Gears, springs, case, and hands
+  - Fill in the empty cells
+  5:
+  - Bridge
+  - ''
+  - Construction Company
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - Furniture Factory
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Hands, dial
+  - Fill in the empty cells
+  40:
+  - ''
+  - ''
+  - Restaurant
+  - ''
+  - ''
+  - Fill in the empty cells
+  41:
+  - Pruner
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  42:
+  - ''
+  - ''
+  - UX Designer
+  - ''
+  - ''
+  - Fill in the empty cells
+  43:
+  - ''
+  - ''
+  - Marketer
+  - ''
+  - ''
+  - Fill in the empty cells
+  76:
+  - Drone
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  77:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  78:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

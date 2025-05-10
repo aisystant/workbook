@@ -1,0 +1,96 @@
+title: 4-6 "Services"
+description: ''
+columns:
+- title: Service
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Service Provider
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Provider's System of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Supersystem
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Haircut
+  - Hairdresser with tools
+  - Hairstyle
+  - Groomed head
+  - Refer to the example for guidance
+  2:
+  - Training
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - ''
+  - Delivered package
+  - ''
+  - Fill in the empty cells
+  4:
+  - Informing ....
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - Car with driver
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - Internet access
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - Grinding workshop
+  - ''
+  - ''
+  - Fill in the empty cells
+  40:
+  - ''
+  - ''
+  - Modified thinking, new human mastery
+  - ''
+  - Fill in the empty cells
+  41:
+  - ''
+  - Mining combine
+  - ''
+  - ''
+  - Fill in the empty cells
+  42:
+  - Car assembly
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  43:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  76:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

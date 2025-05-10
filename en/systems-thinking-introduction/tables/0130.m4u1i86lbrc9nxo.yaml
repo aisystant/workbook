@@ -1,0 +1,120 @@
+title: 2-4 "Implementation, Description, and System Documentation"
+description: ''
+columns:
+- title: System Implementation
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System Description
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Documentation
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Mercedes E-Class
+  - 'Dimensions: 4835 x 1852 x 1428, acceleration to 100 km/h in 7 sec., seats – 5, …'
+  - Promotional leaflet, dealer website, …
+  - ''
+  - Review the example for filling in
+  2:
+  - A person named Jack Nicholson
+  - Age, weight, height, illnesses
+  - Medical record
+  - A driver's license is also a document.
+  - Review the example for filling in
+  3:
+  - Enterprise
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - Price
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - Summer house
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - Architectural project
+  - ''
+  - Fill in the empty cells
+  7:
+  - Driver
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - ''
+  - ''
+  - 'Passport containing description: Name, date and place of birth, and….'
+  - ''
+  - Fill in the empty cells
+  9:
+  - Pruner
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  10:
+  - ''
+  - ''
+  - Blueprint
+  - ''
+  - Fill in the empty cells
+  11:
+  - Windows 11
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  12:
+  - Bridge
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  13:
+  - Thinking mastery by writing
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  14:
+  - Drone
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  15:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  16:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

@@ -1,0 +1,48 @@
+title: 2-7 "Complex Systems"
+description: ''
+columns:
+- title: System Name
+  description: Fill in the blank cells
+  uidt: LongText
+  pv: false
+- title: Subsystems
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  2:
+  - Water Rescue System
+  - Rescuer, lifeboats, safety rules stand, lifebuoys
+  - Refer to the example provided
+  3:
+  - Enterprise
+  - Plant, administrative buildings, employees, computers, etc.
+  - Refer to the example provided
+  4:
+  - Asteroid Attack Defense System
+  - ''
+  - Fill in the blank cells
+  5:
+  - Document Management System
+  - ''
+  - Fill in the blank cells
+  6:
+  - ''
+  - Tables, chairs, students, projector, lecturer, ...
+  - Fill in the blank cells
+  7:
+  - Theater Production
+  - ''
+  - Fill in the blank cells
+  40:
+  - ''
+  - ''
+  - Provide an example from a work project
+  41:
+  - ''
+  - ''
+  - Provide an example from a personal project

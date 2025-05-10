@@ -1,0 +1,77 @@
+title: 3-6 "Subjects of Interest to the System"
+description: ''
+columns:
+- title: System
+  description: Fill in the empty cells
+  uidt: LongText
+  pv: false
+- title: Subject of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  2:
+  - Mercedes E-class car
+  - Color, speed, acceleration, cost, environmental friendliness, ...
+  - When first filling out this table, I recorded not subjects of interest, but wishes
+    and preferences. Realized this when I started filling out table 2.5.
+  - Refer to the example provided
+  3:
+  - Kitchen table
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - Water safety system
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - Tomato
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - Height, width, depth, strength, cost, color, design, ...
+  - ''
+  - Fill in the empty cells
+  7:
+  - Pruning shears
+  - ''
+  - ''
+  - Fill in the empty cells
+  40:
+  - Windows 11
+  - ''
+  - ''
+  - Fill in the empty cells
+  41:
+  - ''
+  - Flight autonomy, maneuverability, compactness, first-person view (FPV) perspective,
+    resistance to electronic warfare
+  - ''
+  - Fill in the empty cells
+  42:
+  - Table
+  - ''
+  - ''
+  - Fill in the empty cells
+  43:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  44:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

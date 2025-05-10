@@ -1,0 +1,45 @@
+title: 7-5 "Methods and System Levels"
+description: ''
+columns:
+- title: System Levels
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Method
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  7:
+  - Product promotion activities
+  - ''
+  - ''
+  - Fill in the empty cells
+  40:
+  - Live product presentation, persuasive speech
+  - ''
+  - ''
+  - Fill in the empty cells
+  41:
+  - Clear and expressive speech
+  - ''
+  - ''
+  - Fill in the empty cells
+  42:
+  - Pronunciation (no lisping, misarticulation, etc.)
+  - ''
+  - ''
+  - Fill in the empty cells
+  75:
+  - ''
+  - ''
+  - ''
+  - ''

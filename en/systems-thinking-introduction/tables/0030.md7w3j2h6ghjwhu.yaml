@@ -1,0 +1,72 @@
+title: 1-3 "Mastery"
+description: ''
+columns:
+- title: Mastery
+  description: Fill in the blank cells
+  uidt: LongText
+  pv: false
+- title: Discipline Name
+  description: 'List 1-3 concepts associated with the discipline. '
+  uidt: SingleLineText
+  pv: false
+- title: Tools
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: Record any notes
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  2:
+  - Dance mastery
+  - Tango
+  - Body, costume
+  - ''
+  - Review the example for guidance
+  41:
+  - Culinary mastery
+  - Cooking
+  - Knife, hand
+  - ''
+  - Review the example for guidance
+  44:
+  - Musical mastery
+  - Jazz
+  - Saxophone, fingers
+  - ''
+  - Review the example for guidance
+  45:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example
+  46:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example
+  47:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example
+  48:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  49:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

@@ -1,0 +1,72 @@
+title: 3-4 "External and Internal Roles in a Project"
+description: ''
+columns:
+- title: Your Enterprise Product
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: External Project Roles
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Internal Project Roles
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instructions
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Mercedes E-Class Car
+  - Passenger, pedestrian, environmentalist, …
+  - Designer, systems engineer, repair technician, …
+  - '#Aisystant: please provide more examples'
+  - Familiarize yourself with the example given
+  2:
+  - Tomato
+  - Cook, eater, tomato juice producer, …
+  - Seed buyer, digger, water carrier, agronomist, …
+  - ''
+  - Familiarize yourself with the example given
+  3:
+  - 1C IT System
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - Designer, builder,
+  - ''
+  - Fill in the empty cells
+  5:
+  - Drone
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - Thinking Mastery
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  8:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

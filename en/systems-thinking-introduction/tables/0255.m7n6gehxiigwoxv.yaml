@@ -1,0 +1,120 @@
+title: 3-10 "Who Attended the Last Meeting"
+description: ''
+columns:
+- title: Full Name
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Role Method
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Position
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Executor/Performer Organization
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Executor/Performer's Mastery in This Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Subject of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Preference
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Agent Strategy
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  9:
+  - Jessica Tom
+  - Operations Manager
+  - Team Management and Schedules
+  - Project Manager
+  - JSC "Tech Systems"
+  - Medium (7/10)
+  - Team Work Speed
+  - Increase speed by 10%
+  - Add another person to the team
+  - ''
+  - Refer to the example filled out
+  10:
+  - John Smith
+  - Product Owner
+  - Product Discovery
+  - Product Manager
+  - JSC "Innovations"
+  - High (9/10)
+  - Interface Usability
+  - Improve usability
+  - Conduct research
+  - ''
+  - Refer to the example filled out
+  11:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  12:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  13:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  14:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells

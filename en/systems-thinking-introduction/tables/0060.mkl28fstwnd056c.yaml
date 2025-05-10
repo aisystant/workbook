@@ -1,0 +1,91 @@
+title: 1-6 "Classic Properties of a System"
+description: ''
+columns:
+- title: System
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Integrity
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Emergence
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Nestedness
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Notes
+  description: Write down any of your notes
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  20:
+  - Passenger vehicle
+  - A passenger vehicle has a clear boundary defined by its body.
+  - The emergent property is movement.
+  - The passenger vehicle is part of the taxi fleet.
+  - I didn’t immediately realize what the vehicle was part of, but then I thought about the environment.
+  - Familiarize yourself with the example provided
+  21:
+  - Water safety system
+  - 'This system is bounded by the following objects: lifeguards, lookout towers, lifebuoys, boats.'
+  - The emergent property is rescue.
+  - The water rescue system is part of the regional EMERCOM management.
+  - An issue with EMERCOM that needs to be raised with colleagues for joint course study (study group).
+  - Familiarize yourself with the example provided
+  24:
+  - Engine
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  25:
+  - Table
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  26:
+  - Pass issuance system
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  27:
+  - Scissors
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  28:
+  - SAP program
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  62:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  63:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

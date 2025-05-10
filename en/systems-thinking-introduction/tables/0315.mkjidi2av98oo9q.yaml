@@ -1,0 +1,98 @@
+title: 4-5 "System of Interest and Our System"
+description: ''
+columns:
+- title: Project
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Our System
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Your Main Role in the Project of Creating Our System
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Mercedes E-Class Car Creation Project
+  - Mercedes E-Class Car
+  - Diesel Engine
+  - Architect
+  - ''
+  - Refer to the example for guidance
+  2:
+  - Mercedes E-Class Car Creation Project
+  - ''
+  - Machine Tool
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - House Building Project
+  - ''
+  - ''
+  - Designer
+  - ''
+  - Fill in the empty cells
+  4:
+  - Fluid Flow Modeling Software System Development Project
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - Bridge Construction Modeling Software System
+  - ''
+  - Scrum Master
+  - ''
+  - Fill in the empty cells
+  6:
+  - Systems Thinking Training Project
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - Freestyle Swimming Training Project
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - Mars Colonization Project
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  9:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  10:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

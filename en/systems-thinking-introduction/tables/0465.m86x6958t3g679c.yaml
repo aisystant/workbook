@@ -1,0 +1,72 @@
+title: 6-7 "Functional and Structural Descriptions"
+description: ''
+columns:
+- title: System
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Functional Parts
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Structural Parts (Modules)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - 'Example: Scissors'
+  - =Blade unit, =Handle
+  - -Half 1, -Half 2, -screw
+  - ''
+  - Review the example filling
+  2:
+  - Kitchen table
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Car
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - Life mastery
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - Holder, striker
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - Thinking mastery and applied mastery
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  8:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project
