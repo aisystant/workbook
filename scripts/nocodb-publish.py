@@ -69,6 +69,7 @@ def get_workbook_tables(workbook_path):
             with open(table_file, "r") as f:
                 table_metadata = yaml.safe_load(f)
                 if table_metadata:
+                    table_metadata["table_id"] = filename.replace(".yaml", "").replace(".", "-")
                     tables.append(table_metadata)
     return tables
 
@@ -102,7 +103,7 @@ def get_nocodb_base_schema(base_id):
     return response
 
 
-def nocodb_create_table(base_id, title, description, columns):
+def nocodb_create_table(base_id, title, table_name, description, columns):
     """
     Create a new table in the NocoDB base.
 
@@ -112,6 +113,7 @@ def nocodb_create_table(base_id, title, description, columns):
     data = {
         "table_name": title,
         "title": title,
+        "table_name": table_name,
         "description": description,
         "columns": columns
     }
@@ -188,6 +190,7 @@ def publish_table_to_nocodb(base_id, table_metadata):
     table_id = nocodb_create_table(
         base_id,
         title=table_metadata["title"],
+        table_name=table_metadata["table_id"],
         description=table_metadata.get("description", ""),
         columns=columns_with_id
     )
