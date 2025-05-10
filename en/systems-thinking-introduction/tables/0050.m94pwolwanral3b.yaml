@@ -1,0 +1,108 @@
+title: 1-5 "System Function"
+description: ''
+columns:
+- title: Enterprise Product
+  description: Fill in the empty cells
+  uidt: LongText
+  pv: false
+- title: Main System Function
+  description: ' '
+  uidt: SingleLineText
+  pv: false
+- title: Other Functions
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: Write any of your notes
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: LongText
+  pv: false
+rows:
+  2:
+  - Mercedes E-Class Car
+  - Transport people
+  - Transport baggage, emphasize status, …
+  - ''
+  - Familiarize yourself with the example
+  3:
+  - IT System "1C"
+  - Document tax accounting
+  - Conduct accounting, management and financial reporting
+  - ''
+  - Familiarize yourself with the example
+  4:
+  - Wall clock
+  - Show time
+  - Display date and temperature, decorate the interior
+  - ''
+  - Familiarize yourself with the example
+  5:
+  - Microscope
+  - Obtain magnified images of objects invisible to the naked eye.
+  - Hammering nails
+  - ''
+  - Familiarize yourself with the example
+  6:
+  - Kitchen table
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - Pruning shoots and thin branches.
+  - Thinning the crowns of trees, shrubs, ...
+  - ''
+  - Fill in the empty cells
+  8:
+  - Dance costume
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  9:
+  - ''
+  - Serve as support for writing and other tasks.
+  - ''
+  - ''
+  - Fill in the empty cells
+  10:
+  - Pushkin Bridge in Moscow
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  11:
+  - ''
+  - Serve as a work surface in the kitchen or for the cook.
+  - ''
+  - ''
+  - Fill in the empty cells
+  12:
+  - Boeing 737 Airplane
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  13:
+  - Cabinet
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  47:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  48:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

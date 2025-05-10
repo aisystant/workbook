@@ -1,0 +1,79 @@
+title: 3-2 "Role and Executor"
+description: ''
+columns:
+- title: Full Name
+  description: Fill in the empty cells
+  uidt: LongText
+  pv: false
+- title: Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Project Name
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  2:
+  - John Smith
+  - Operations Manager
+  - Residential Complex Construction Project “Sunny Shore”
+  - Practically every project needs an operations manager. Who on our team takes on
+    this role?
+  - Refer to the example for completion
+  3:
+  - ''
+  - Accountant
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - Swimmer
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - Nuclear Plant Repair Project
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - Gardener
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - Driver
+  - ''
+  - ''
+  - Fill in the empty cells
+  40:
+  - ''
+  - ''
+  - Rabbit Accounting Software System Development Project.
+  - ''
+  - Fill in the empty cells
+  41:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  42:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

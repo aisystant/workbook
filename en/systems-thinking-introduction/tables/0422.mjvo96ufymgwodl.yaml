@@ -1,0 +1,66 @@
+title: 6-3 "Project (Enterprise) Documents"
+description: ''
+columns:
+- title: Project Documents
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: About (Content)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Role of Document Creator
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: For Whom the Document Is
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Promotional Brochure
+  - About the main characteristics of the car and the cost of different configurations
+  - Marketer
+  - Buyer (user, driver, …)
+  - Familiarize yourself with the example filling
+  2:
+  - Project Documentation
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - ''
+  - Accountant
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - Programmer
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - Height, weight, skin condition
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

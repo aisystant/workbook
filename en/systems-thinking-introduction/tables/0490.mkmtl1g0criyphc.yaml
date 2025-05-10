@@ -1,0 +1,92 @@
+title: 7-3 "Executor Qualification"
+description: ''
+columns:
+- title: Subject of Conversation
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Most Frequently Encountered Concepts
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Discipline Where These Terms Are Most Frequently Encountered
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Employee Role
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Employee Qualification in the Specified Method (Discipline Proficiency)
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Your Qualification in the Specified Method (Discipline Proficiency)
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Conversation at the office kitchen with John about organizational process issues
+  - emergency, misunderstanding, team, processes, projects, delays, budget, logistics,
+    counterparts,...
+  - Management, specifically operational management
+  - Operations Manager
+  - High
+  - Above average
+  - ''
+  - Refer to the example for completion
+  2:
+  - Discussion with the enterprise leader
+  - new tools, impregnation, sota, digital transformation, enterprise architecture,
+    ...
+  - Organizational Development
+  - Organizer, Leader
+  - Above average
+  - High
+  - ''
+  - Refer to the example for completion
+  3:
+  - Conversations with Name on the topic “title” (replace with your example)
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - Conversations with Name on the topic “title” (replace with your example)
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - Conversations with Name on the topic “title” (replace with your example)
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''

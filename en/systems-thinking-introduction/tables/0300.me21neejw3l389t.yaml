@@ -1,0 +1,66 @@
+title: 4-3 "Identifying the Type of System of Interest through Descriptions"
+description: ''
+columns:
+- title: Document with System Description
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Described System of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - A sign with name, operating hours, and address on the shop's door
+  - Shop
+  - ''
+  - Refer to the example for completion
+  2:
+  - Software for personal planning with a to-do list
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Wind-up globe from a school educational supplies store
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - Instruction for the wind-up globe
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - Sheet music for the melody "Let it be" for bass guitar
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - Reproduction systems usually include organs that form the digestive, respiratory,
+    and urinary systems.
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - Crash test model confirmed the product meets global safety standards.
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  9:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

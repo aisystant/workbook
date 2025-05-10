@@ -1,0 +1,60 @@
+title: 6-6 "Operational Model, Types of Meta-Model"
+description: ''
+columns:
+- title: Operational Model
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Type from Meta-Model
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Type from Meta-Meta-Model
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Balance sheet for 2021 in the “1C” program
+  - Balance sheet form
+  - Description of the “Enterprise” system, Work artifact
+  - ''
+  - Review the example for filling out
+  2:
+  - ''
+  - Gantt chart
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Weekly schedule
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - Title of the course template table.
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  6:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

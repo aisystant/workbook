@@ -1,0 +1,40 @@
+title: 7-1 "Concepts"
+description: ''
+columns:
+- title: Section Concepts
+  description: 'Write down the most memorable concepts '
+  uidt: LongText
+  pv: false
+- title: Other Concepts and My Explanations of the Connections Between All Concepts
+  description: 'List 1-3 other concepts related to the concept you noted and describe these connections. '
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  2:
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''

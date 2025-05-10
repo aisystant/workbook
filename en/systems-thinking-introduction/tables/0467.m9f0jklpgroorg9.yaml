@@ -1,0 +1,104 @@
+title: 6-8 "System Description as a Black Box"
+description: ''
+columns:
+- title: System
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System Function
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System State
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System Interfaces
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System Characteristics
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Characteristic Indicator
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Scissors
+  - Cutting
+  - Open, Closed, Cutting in progress
+  - Physical impact
+  - Sharpness, stiffness, wear resistance, cost
+  - Angle of sharpening degrees
+  - Review the example of completion
+  2:
+  - Car
+  - Transporting people and goods
+  - Moving, Stopped, Breakdown
+  - ''
+  - Speed, safety,
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - Time measurement
+  - ''
+  - ''
+  - Movement accuracy, waterproof
+  - ''
+  - Fill in the empty cells
+  4:
+  - Kitchen table
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - Dusting
+  - ''
+  - ''
+  - ''
+  - Charge remaining
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - ''
+  - Touch interface
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - Drone
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  9:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

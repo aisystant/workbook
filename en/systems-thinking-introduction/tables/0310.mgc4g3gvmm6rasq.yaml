@@ -1,0 +1,126 @@
+title: 4-4 "System of Interest and Its Supersystem"
+description: ''
+columns:
+- title: Project Name
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Function/Purpose
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Supersystem
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Number of Checks Conducted to Determine the SI
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: How Sure Are You (Percentage)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Cottage construction project
+  - The cottage includes a house, a bathhouse, and land with utilities
+  - Serve as a place for temporary residence
+  - Cottage community, Household
+  - 'Three checks: initially the system of interest was just the house, then utilities were not considered, and then there was a problem with supersystems, which turned out to be multiple'
+  - Sure 80%
+  - ''
+  - Refer to the example for completion
+  2:
+  - ''
+  - Mobile task management application
+  - ''
+  - Productivity ecosystem, Google Play/App Store
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Corporate website creation project
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - Company website
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - Network of bike paths
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - Educational ecosystem
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - ''
+  - ''
+  - Transport goods over long distances
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  9:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  10:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

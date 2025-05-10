@@ -1,0 +1,56 @@
+title: 5-4 "Identify System Levels"
+description: ''
+columns:
+- title: Example 1
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Example 2
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Your example from a work project
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Your example from a personal project
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - 'Trip: Taxi + Passenger'
+  - 'Cottage settlement: Cottages + utilities + roads'
+  - ''
+  - ''
+  - Fill in the empty cells
+  2:
+  - 'Taxi: Driver + Mercedes E-Class Car'
+  - 'Cottage: plot + wooden house'
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Product of the enterprise – Mercedes E-Class Car
+  - Product of the enterprise – wooden house
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - Salon, Chassis, Engine
+  - Terrace, bedroom, kitchen, hall, bathroom …
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - 'Parts of the salon: front and rear seats, monitor, …; Parts of the chassis: transmission,
+    undercarriage; Parts of the engine: piston, …'
+  - 'Parts of the bathroom: shower, toilet, sink, water heater, pipes. Parts of the terrace:
+    railing, canopy, steps …'
+  - ''
+  - ''
+  - Fill in the empty cells

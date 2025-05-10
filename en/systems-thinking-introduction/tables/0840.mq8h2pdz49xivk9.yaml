@@ -1,0 +1,95 @@
+title: 7-12 "Examples of Brief Project Descriptions"
+description: ''
+columns:
+- title: System of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Function of the System of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Supersystem
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Nearby Surrounding Systems
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: External Project Roles
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Example Needs
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Examples of Creation Systems
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  13:
+  - Photographer Drone
+  - Produce a stream of high-resolution construction photos from angles interesting to
+    the client-developer
+  - Aerial Photography for Construction
+  - Charging, Drone Operator
+  - Client-developer, inspecting authorities (for construction and flights)
+  - Construction monitoring.
+  - Design bureau, manufacturing plant, store, repair workshop, operational service
+  - ''
+  - Familiarize yourself with the example of completion
+  14:
+  - Thinking Mastery (Intellect)
+  - Find solutions in new situations or complex problems
+  - Life Mastery
+  - Applied Mastery
+  - Constructor (the person themselves in this role), employer, family members, ...
+  - Promotion at least once every 2 years. Salary increase at least twice every 3 years.
+    Ability to create a creation system for a child ready for adult life. Successful (creating
+    at least one successful system), happy (eliminating one's dissatisfactions) and interesting
+    (more than 7 conscious areas of activity) life.
+  - Student (the person themselves in this role consuming theory and practicing thinking 
+    through writing), online course, teacher, enlightener, marketer, methodologist, ...
+  - ''
+  - Familiarize yourself with the example of completion
+  15:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  16:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  17:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

@@ -1,0 +1,91 @@
+title: 6-5 "Models, Meta-models, Multi-models"
+description: ''
+columns:
+- title: System
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Example of a Single Model
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Meta-models
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Multi-models
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Mega-model
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Planet Earth
+  - Globe
+  - Map legend, Mercator projection
+  - 'All models, including maps: political, mineral resources, etc.'
+  - Multi-model and all their meta-models
+  - Review the example provided
+  2:
+  - Summer house
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - ''
+  - Accounting textbook, complete with...
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - JSC "System"
+  - Public financial statements
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - Brooklyn Bridge
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - Theater program
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - Thinking mastery
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  9:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

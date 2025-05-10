@@ -1,0 +1,50 @@
+title: 5-6 "Time Allocation across Areas of Interest"
+description: ''
+columns:
+- title: Projects
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Time spent on working with the supersystem area of interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Time spent on working with the system of interest area
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Time spent working with creation systems
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - 'Example: Summer house construction project'
+  - 40%
+  - 40%
+  - 20%
+  - Review the completion example
+  - The project is not finished yet, in the following stages, the main time will be devoted
+    to the managerial area of interest.
+  2:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  - ''
+  3:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project
+  - ''

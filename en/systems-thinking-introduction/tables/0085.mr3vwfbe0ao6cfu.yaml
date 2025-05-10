@@ -1,0 +1,65 @@
+title: 1-8 "Grounding Abstract Texts"
+description: ''
+columns:
+- title: Abstract Text
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Grounding
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - The implementation of the system must comply with standards.
+  - “The computer must support connecting external devices via USB 3.2 standard.” Or “The ice cream 'Plombir' must meet GOST 31457-2012.”
+  - Initially, it was difficult to even formulate the first version. I remembered that M. Ilyakhov wrote about this in the books “Write, Shorten” and “Clearly, Understandably.”
+  - Review the example of completion
+  2:
+  - Documentation must be compact.
+  - ''
+  - ''
+  - Fill the empty cells
+  3:
+  - The role implements the method, resulting in a work artifact.
+  - ''
+  - ''
+  - Fill the empty cells
+  4:
+  - ''
+  - “At any given moment, there is an average of 1200 Boeing 737 airplanes in the air.” Or “Every 5 seconds, a 737 takes off and lands somewhere in the world.”
+  - ''
+  - Fill the empty cells
+  5:
+  - Our device is durable.
+  - ''
+  - ''
+  - Fill the empty cells
+  6:
+  - The subject of interest provided in the systems thinking discipline.
+  - ''
+  - ''
+  - Fill the empty cells
+  7:
+  - A message has arrived.
+  - ''
+  - ''
+  - Fill the empty cells
+  8:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  9:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

@@ -1,0 +1,57 @@
+title: 3-5 "Roles Performed by the Manager"
+description: ''
+columns:
+- title: Role
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Specific Activities in the Role
+  description: ' '
+  uidt: SingleLineText
+  pv: false
+- title: Actor's Skill Level in this Role
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Percentage of Time in this Role
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  2:
+  - Operational Manager
+  - Monitors project timelines and budgets, as well as discipline in task execution
+  - High
+  - 80%
+  - I am certain because I track time for work and personal projects using the Pomodoro
+    timer. This percentage is of the total work time.
+  - Familiarize yourself with the filling example
+  3:
+  - Role of your manager (replace the text in this cell)
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - Roles you perform as a leader (even in relation to yourself)
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''

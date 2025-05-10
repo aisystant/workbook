@@ -1,0 +1,35 @@
+title: 5-3 "Supersystem Areas of Interest"
+description: ''
+columns:
+- title: Areas of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Example Description
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Your Project or Enterprise Description
+  description: 'List 1-3 other concepts related to your indicated concept and describe these connections. '
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Supersystem
+  - High school students who decide to apply to technical universities do not have enough time to study humanities. Parents want their children to have well-rounded development, not just technical. An online course is proposed, which in 4 hours a week and for a cost of 500 rubles a month, will help pass exams in certain humanities subjects with a grade of 4.
+  - ''
+  - Fill in the empty cells
+  2:
+  - System of Interest
+  - The online course includes a geochronological scale to which all significant events, discoveries, etc., will be linked. The online course also features an AI assistant in roles as a motivator and tutor.
+  - ''
+  - Fill in the empty cells
+  3:
+  - Creation Systems
+  - The course is developed by a team using state-of-the-art teaching methods, programming, and work management, etc.
+  - ''
+  - Fill in the empty cells

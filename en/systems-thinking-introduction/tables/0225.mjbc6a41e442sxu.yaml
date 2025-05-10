@@ -1,0 +1,144 @@
+title: 3-7 "Intention, Preference, and Subject of Interest"
+description: ''
+columns:
+- title: Full Name
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Project Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Subject of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Preference
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Intention
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - John Smith
+  - Buyer
+  - Car
+  - Price
+  - Price as low as possible
+  - Negotiate to reduce the price by 5%
+  - ''
+  - Refer to the example for completion
+  2:
+  - Pedro
+  - ''
+  - Car
+  - Color
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Michael Schumacher
+  - Driver
+  - Car
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - Gardener
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - Kitchen table
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - UX Designer
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - Architectural Engineer
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - ''
+  - Operations Manager
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  9:
+  - ''
+  - Development Manager
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  10:
+  - ''
+  - ''
+  - Airplane
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  11:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  12:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

@@ -1,0 +1,52 @@
+title: 7-10 "Changes in the Enterprise"
+description: ''
+columns:
+- title: Areas of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Example with a Car
+  description: ''
+  uidt: LongText
+  pv: false
+- title: 'Example: Aisystant Corp'
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Your Enterprise
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  7:
+  - Supersystem's Area of Interest
+  - Finding new markets
+  - Transitioning to a new business model – monthly subscription to the online program
+    "Infinite Development."
+  - ''
+  - Fill in the blank cells
+  40:
+  - System of Interest's Area of Interest
+  - New electric car model
+  - Developing a new direction (systems of interest) – applied mastery in engineering
+    and management.
+  - ''
+  - Fill in the blank cells
+  41:
+  - Creation Systems' Area of Interest
+  - Updating the assembly line through a new assembly method, hiring specialists
+    in VR and AR.
+  - Developing new courses, creating the Aisystant platform, implementing new marketing
+    practices.
+  - ''
+  - Fill in the blank cells
+  74:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''

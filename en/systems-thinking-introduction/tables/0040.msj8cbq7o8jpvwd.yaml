@@ -1,0 +1,60 @@
+title: 1-4 "Characteristics of the System"
+description: ''
+columns:
+- title: Product (system)
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Characteristics (subjects of interest)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: Write down any notes you have
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  2:
+  - Mercedes E-Class car
+  - Speed, safety, comfort, environmental friendliness, cost, …
+  - ''
+  - Review the example for completion
+  3:
+  - Your kitchen table
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - Brooklyn Bridge
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - Your hairstyle
+  - ''
+  - ''
+  - Fill in the empty cells
+  40:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  41:
+  - Drone
+  - ''
+  - ''
+  - Fill in the empty cells
+  42:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project
+  43:
+  - ''
+  - ''
+  - ''
+  - ''

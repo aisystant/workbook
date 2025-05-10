@@ -1,0 +1,45 @@
+title: 7-13 "My Roles, Methods, and Priority Projects"
+description: ''
+columns:
+- title: My Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Project
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Target System/Our System
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: My Method
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: My Work Artifact
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Degree of Applied Mastery
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells

@@ -1,0 +1,48 @@
+title: 5-7 "3x3 Table"
+description: ''
+columns:
+- title: Areas of Interest
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Entrepreneur
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Engineer
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Manager
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Supersystem area of interest
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  2:
+  - System of interest area of interest
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Creation systems area of interest
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  40:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''

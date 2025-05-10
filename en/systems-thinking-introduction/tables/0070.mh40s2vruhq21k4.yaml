@@ -1,0 +1,60 @@
+title: 1-7 "Form and Content"
+description: ''
+columns:
+- title: Form
+  description: Fill in the empty cells
+  uidt: LongText
+  pv: false
+- title: Content
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: Write any of your notes
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  2:
+  - Advertising brochure
+  - Price – 100,000 rubles, warranty period – 1 year, …
+  - ''
+  - Refer to the example for completion
+  4:
+  - Recipe in a cookbook
+  - Description of taste, aroma, texture. For example, creamy pumpkin soup with a spicy sweetness, velvety texture, and a hint of nutmeg
+  - ''
+  - Refer to the example for completion
+  5:
+  - Video interview
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - Course "Marketing in Social Media" in textbook format
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - Height, age, place of residence
+  - ''
+  - Fill in the empty cells
+  46:
+  - Social media post
+  - ''
+  - ''
+  - Fill in the empty cells
+  47:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  48:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

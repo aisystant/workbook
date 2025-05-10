@@ -1,0 +1,168 @@
+title: 3-3 "Role, Executor, Rank and Position"
+description: ''
+columns:
+- title: Executor's Full Name
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Position
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Rank
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Executor's Qualification
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - John Smith
+  - Accountant
+  - Chief Accountant
+  - Honored Accountant of Russia
+  - High
+  - Interesting, how does the document confirm this title for my mom?
+  - Refer to the example for filling
+  2:
+  - Michael Phelps
+  - Swimmer
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - ''
+  - Leading Specialist
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - ''
+  - Oscar Holder
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - ''
+  - General
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - Head of Financial Reporting Department
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - General Director of Nuclear Power Station
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - ''
+  - Development Manager, Operations Manager, Leader,
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  9:
+  - ''
+  - Driver
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  10:
+  - ''
+  - ''
+  - Product Manager
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  11:
+  - ''
+  - SCRUM Master
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  12:
+  - ''
+  - ''
+  - Chief Engineer of Bridge Construction Company
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  13:
+  - ''
+  - ''
+  - Chief Transformation Officer of the "We Teach Everything that Thinks" Company
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  14:
+  - Albert Einstein
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  15:
+  - Your Mother
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  16:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  17:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

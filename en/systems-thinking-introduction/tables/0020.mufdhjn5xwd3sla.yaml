@@ -1,0 +1,120 @@
+title: 1-2 "Discipline (Theory, Model)"
+description: ''
+columns:
+- title: Discipline
+  description: Fill in the empty cells
+  uidt: LongText
+  pv: false
+- title: Key Concepts
+  description: 'List 1-3 concepts associated with the discipline. '
+  uidt: SingleLineText
+  pv: false
+- title: Principles, Models
+  description: Write down 1-2 principles or models related to the discipline
+  uidt: SingleLineText
+  pv: false
+- title: Roles
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Work Artifact
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: Write down any of your notes
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Accounting
+  - Asset, liability, tax, profit, ..
+  - Double-entry, ...
+  - Accountant, tax specialist, …
+  - Balance sheet
+  - ''
+  - Refer to the example for filling
+  2:
+  - Freestyle
+  - Stroke, breathing
+  - Principle of streamlining, Principle of rhythmic coordination, ..
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Toothbrushing
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - ''
+  - Artist
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Chair
+  - ''
+  - Fill in the empty cells
+  6:
+  - Investment and time management
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Give an example from a personal project
+  8:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Give an example from a work project
+  9:
+  - ''
+  - Budget, deadlines
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  10:
+  - ''
+  - ''
+  - Principle "loss reduction"
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  11:
+  - ''
+  - Taste, aroma, ingredient
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells

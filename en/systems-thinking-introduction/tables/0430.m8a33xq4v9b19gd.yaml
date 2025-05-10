@@ -1,0 +1,96 @@
+title: 6-4 "My Roles and My Description Methods"
+description: ''
+columns:
+- title: My Project Role
+  description: ''
+  uidt: LongText
+  pv: false
+- title: My Description Method
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: System
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Documentation
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Subject of Interest
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Project Role for Whom Documentation
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Accountant
+  - Accounting and Tax Reporting
+  - Enterprise
+  - Tax Reporting
+  - Taxes
+  - Tax Officer
+  - Review the example for filling in
+  2:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  40:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

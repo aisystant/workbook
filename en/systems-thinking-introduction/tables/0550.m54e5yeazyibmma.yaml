@@ -1,0 +1,104 @@
+title: 7-9 "Work Formulation"
+description: ''
+columns:
+- title: Role Performer
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Deadline
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Role
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Method
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Resource
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Work Artifact
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Mark Rooney
+  - 24.02.2022
+  - Carpenter
+  - CNC machine cutting
+  - Miter saw, Rip saw, Dry rough-sawn board
+  - Board planed for painting, size 20*140*3000
+  - Refer to the example for filling
+  2:
+  - ''
+  - ''
+  - ''
+  - Accounting
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - ''
+  - Swimmer
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - Engineer
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - ''
+  - JTBD
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - ''
+  - Thinking through writing
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - Organizer
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  40:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  41:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

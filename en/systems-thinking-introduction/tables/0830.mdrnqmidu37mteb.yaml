@@ -1,0 +1,108 @@
+title: 7-11 "Assignment of Organizational Units to Org Roles"
+description: ''
+columns:
+- title: Method
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Organizational Unit
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Accounting
+  - Accountant
+  - Accounting Department
+  - ''
+  - Refer to the example for filling
+  2:
+  - ''
+  - Swimmer
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Operational Management
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - Driver
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - ''
+  - Development Service
+  - ''
+  - Fill in the empty cells
+  6:
+  - Kanban
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  7:
+  - Systems Leadership
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  8:
+  - ''
+  - ''
+  - Marketing Department
+  - ''
+  - Fill in the empty cells
+  9:
+  - Scrum
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells
+  10:
+  - ''
+  - UX Designer
+  - ''
+  - ''
+  - Fill in the empty cells
+  11:
+  - ''
+  - Architect
+  - ''
+  - ''
+  - Fill in the empty cells
+  12:
+  - ''
+  - Backend Developer
+  - ''
+  - ''
+  - Fill in the empty cells
+  13:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  14:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

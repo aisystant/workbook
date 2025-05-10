@@ -1,0 +1,72 @@
+title: '7-2 "Method: Discipline and Tools"'
+description: ''
+columns:
+- title: Your Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Hours Spent in Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Method Used
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Source of Discipline Knowledge
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Tools Utilized to Support the Discipline
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Best Alternative Method
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Writing a book
+  - 1000 hours
+  - Thinking through writing
+  - 'Sonke Ahrens book “How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking”'
+  - Coda.io, Notes on smartphone, ...
+  - Thinking by speaking
+  - I use thinking by speaking not instead of, but in addition to thinking through writing.
+  - Refer to the example provided
+  2:
+  - Software Developer
+  - 2000 hours
+  - Iterative Development (Agile)
+  - '"CS50" course from Harvard, "Clean Code" by Robert Martin'
+  - Visual Studio Code, Git, Jira
+  - Test-Driven Development (TDD)
+  - ''
+  - Refer to the example provided
+  3:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  9:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

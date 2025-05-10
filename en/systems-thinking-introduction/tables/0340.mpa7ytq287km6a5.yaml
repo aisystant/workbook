@@ -1,0 +1,60 @@
+title: '5-2 "Annotating with Types Using Notation::'
+description: ''
+columns:
+- title: Without Types
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: With Types
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - An airplane is flying.
+  - Flying::function Airplane::system.
+  - ''
+  - Review the example of completion
+  2:
+  - A hammer hits a nail.
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - Vasya is working as an engineer.
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - A computer consists of a case, motherboard, keyboard, and screen.
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - A rose is a flower.
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - Manages, drives::role-based behavior, Driver::role, Car::system
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - ''
+  8:
+  - ''
+  - ''
+  - ''
+  - ''

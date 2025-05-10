@@ -1,0 +1,102 @@
+title: 7-6 "Role, Method, and Work Artifact"
+description: ''
+columns:
+- title: Full Name
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Project Role
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Method
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Work Artifact
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - John Smith
+  - Accountant
+  - Accounting
+  - Balance sheet, profit and loss statement
+  - Refer to the example for completion
+  2:
+  - Jessica Tom
+  - Requirements Engineer
+  - JTBD
+  - List of use cases
+  - Refer to the example for completion
+  3:
+  - ''
+  - UX Designer
+  - ''
+  - ''
+  - Fill in the empty cells
+  4:
+  - ''
+  - ''
+  - Crawl
+  - ''
+  - Fill in the empty cells
+  5:
+  - ''
+  - Gardener
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - ''
+  - TRIZ+ (theory of inventive problem solving)
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - Operations Manager
+  - ''
+  - ''
+  - Fill in the empty cells
+  40:
+  - ''
+  - ''
+  - ''
+  - Business card website
+  - Fill in the empty cells
+  41:
+  - ''
+  - Enterprise Development Manager (Organizer)
+  - ''
+  - ''
+  - Fill in the empty cells
+  42:
+  - ''
+  - ''
+  - Brainstorming
+  - ''
+  - Fill in the empty cells
+  43:
+  - ''
+  - ''
+  - ''
+  - Brochure about the Mini GP III car
+  - Fill in the empty cells
+  76:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  77:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project

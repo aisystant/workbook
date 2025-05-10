@@ -1,0 +1,70 @@
+title: 3-8 "Identifying Roles and Role Expectations"
+description: ''
+columns:
+- title: Full Name
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Tasks Performed (in descending order of time spent)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: List of Roles for These Activities
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Position
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Roles Desired
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Roles Not Desired
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Career Forecast (in free form)
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Jessica Parker
+  - Programs, writes code; Organizes her work schedule; Reports on completed work
+  - Programmer; Operational manager for herself; Report compiler
+  - Senior Programmer
+  - Development Manager
+  - Programmer
+  - The career should take off three months after completing the systems thinking course.
+  - ''
+  - Refer to the example for filling out
+  10:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fill in the empty cells about yourself
+  22:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''

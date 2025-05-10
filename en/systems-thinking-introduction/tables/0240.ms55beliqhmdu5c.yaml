@@ -1,0 +1,48 @@
+title: 3-9 "Analyst's Work"
+description: ''
+columns:
+- title: '% of project time'
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Analyst's workload percentage
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Engineer's workload percentage
+  description: ''
+  uidt: SingleLineText
+  pv: false
+- title: Notes
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  40:
+  - time on work projects, total per row - 100%
+  - ''
+  - ''
+  - ''
+  - Fill in the blank cells
+  41:
+  - time on personal projects, total per row - 100%
+  - ''
+  - ''
+  - ''
+  - Fill in the blank cells
+  42:
+  - Total per row - 100%,
+  - ''
+  - ''
+  - ''
+  - ''
+  43:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''

@@ -1,0 +1,60 @@
+title: 7-8 "System and Process"
+description: ''
+columns:
+- title: Process
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Systems
+  description: ' '
+  uidt: SingleLineText
+  pv: false
+- title: Work Artifact
+  description: ''
+  uidt: LongText
+  pv: false
+- title: Instruction
+  description: ''
+  uidt: SingleLineText
+  pv: false
+rows:
+  1:
+  - Transportation of goods
+  - Car, driver
+  - Passengers and goods transported over a certain distance
+  - Familiarize yourself with the example provided
+  2:
+  - Hammering a nail
+  - ''
+  - ''
+  - Fill in the empty cells
+  3:
+  - ''
+  - Paintbrush, painter
+  - ''
+  - Fill in the empty cells
+  4:
+  - Writing a post
+  - ''
+  - ''
+  - Fill in the empty cells
+  5:
+  - Cooking borscht
+  - ''
+  - ''
+  - Fill in the empty cells
+  6:
+  - ''
+  - Toothbrush, dental floss, irrigator, cleaner
+  - ''
+  - Fill in the empty cells
+  7:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a work project
+  40:
+  - ''
+  - ''
+  - ''
+  - Provide an example from a personal project
