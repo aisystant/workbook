@@ -1,0 +1,2 @@
+flask_oidc==2.3.1
+flask==3.1.0
