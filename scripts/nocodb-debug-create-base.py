@@ -34,7 +34,7 @@ def create_base(base_name):
     Create a new base in NocoDB.
     http://localhost:8080/api/v2/meta/bases/
     """
-    url = f"{NOCODB_API_URL}/api/v2/meta/bases"
+    url = f"{NOCODB_API_URL}/api/v2/meta/bases?page=20"
     data = {
         "title": base_name,
         "description": "Base created by NocoDB Publish",
@@ -50,12 +50,16 @@ def get_bases_list():
     url = f"{NOCODB_API_URL}/api/v2/meta/bases"
     response = requests.get(url, headers=NOCODB_HEADERS)
     if response.status_code == 200:
+        logging.info(f"pageInfo: {response.json().get('pageInfo')}")
         return response.json().get("list", [])
     else:
         logging.error(f"Failed to get bases: {response.text}")
         sys.exit(1)
 
 
-create_base("Test Base")
+#create_base("Test Base")
 bases = get_bases_list()
-logging.info(f"List of bases: {json.dumps(bases, indent=2)}")
+logging.info(f"List of bases: {len(bases)}")
+for base in bases:
+    logging.info(f"Base ID: {base['id']}, Title: {base['title']}")
+    # Add more fields as needed
