@@ -92,7 +92,7 @@ def nocodb_api_call(method, endpoint, data={}):
     return request.json()
 
 
-def get_nocodb_base_schema(base_id):
+def nocodb_get_base_schema(base_id):
     """
     Get the NocoDB base with the given ID.
 
@@ -119,6 +119,48 @@ def nocodb_create_table(base_id, title, table_name, description, columns):
     }
     response = nocodb_api_call("POST", endpoint, data)
     return response["id"]
+
+
+def nocodb_create_base(base_name, description="Base created by NocoDB Publish"):
+    """
+    Create a new base in NocoDB.
+    http://localhost:8080/api/v2/meta/bases/
+    """
+    url = f"{NOCODB_API_URL}/api/v2/meta/bases"
+    data = {
+        "title": base_name,
+        "description": description,
+    }
+    return requests.post(url, headers=NOCODB_HEADERS, json=data)
+
+
+def nocodb_get_bases_list():
+    """
+    Get the list of bases in NocoDB.
+    http://localhost:8080/api/v2/meta/bases/
+    """
+    url = f"{NOCODB_API_URL}/api/v2/meta/bases?pageSize=10000"
+    response = requests.get(url, headers=NOCODB_HEADERS)
+    if response.status_code == 200:
+        return response.json().get("list", [])
+    else:
+        logging.error(f"Failed to get bases: {response.text}")
+        raise Exception(f"Failed to get bases: {response.text}")
+
+
+def nocodb_create_user(base_id, email):
+    """
+    Create a new user in the NocoDB base.
+
+    POST http://localhost:8080/api/v2/meta/bases/{baseId}/users
+    """
+    endpoint = f"api/v2/meta/bases/{base_id}/users"
+    data = {
+        "email": email,
+        "roles": "owner"
+    }
+    response = nocodb_api_call("POST", endpoint, data)
+    return response
 
 
 def set_pv_if_not_exists(columns):
@@ -184,7 +226,7 @@ def build_nocodb_row(columns, row):
 
 
 def publish_table_to_nocodb(base_id, table_metadata):
-    logging.info(f"Publishing table: {table['title']}")
+    logging.info(f"Publishing table: {table_metadata['title']}")
     colimns_with_pv = set_pv_if_not_exists(table_metadata["columns"])
     columns_with_id = add_id_column_if_not_exists(colimns_with_pv)
     table_id = nocodb_create_table(
@@ -202,44 +244,98 @@ def publish_table_to_nocodb(base_id, table_metadata):
         logging.info(f"Adding row: {nocodb_row}")
         res = nocodb_add_row(table_id, nocodb_row)
         logging.info(f"Row added: {res}")
-    logging.info(f"Table {table['title']} published successfully.")
+    logging.info(f"Table {table_metadata['title']} published successfully.")
     return
+
+
+def check_base_exists(base_description):
+    """
+    Check if the base with the given description exists.
+    """
+    bases = nocodb_get_bases_list()
+    for base in bases:
+        if base["description"] == base_description:
+            return base["id"]
+    return None
+
+
+def publish_base(workbook_path, base_id):
+    """
+    Publish the workbook to NocoDB.
+    """
+    logging.info(f"Publishing workbook: {workbook_path} to base: {base_id}")
+
+    #metadata = get_workbook_metadata(workbook_path)
+    #logging.info(f"Workbook metadata: {metadata}")
+    tables = get_workbook_tables(workbook_path)
+    #logging.info(f"Workbook tables: {tables}")
+
+    for table in tables:
+        try:
+            publish_table_to_nocodb(base_id, table)
+        except Exception as e:
+            logging.error(f"Error publishing table {table['title']}: {e}")
+            continue
+        # Uncomment the following line to stop after the first table
+        # break
+
+
+def publish_workbook(workbook_path, owner_email, owner_name):
+    """
+    Publish the workbook to NocoDB and grant access to the owner.
+    """
+    workbook_metadata = get_workbook_metadata(workbook_path)
+    base_title = f"{workbook_metadata['title']} ({owner_name}, {owner_email})"
+    base_description = f"{workbook_path}:{owner_email}"
+    base_id = check_base_exists(base_description)
+    if base_id:
+        logging.info(f"Base already exists: {base_id}")
+    else:
+        logging.info(f"Creating new base: {base_title}")
+        base_response = nocodb_create_base(base_title[:50], base_description)
+        logging.info(f"Base created: {base_response.text}")
+        base_id = base_response.json().get("id")
+    logging.info(f"Base ID: {base_id}")
+    nocodb_create_user(base_id, owner_email)
+    logging.info(f"User {owner_email} created in base: {base_id}")
+    logging.info(f"Base created: {base_id}")
+    publish_base(workbook_path, base_id)
+    return base_id
 
 
 # Run the script with the following command:
 # python scripts/nocodb-publish.py --base <path-to-workbook>
 
-parser = argparse.ArgumentParser(description="Publish a workbook to NocoDB.")
-parser.add_argument(
-    "--workbook",
-    type=str,
-    required=True,
-    help="Path to the workbook directory to publish."
-)
-parser.add_argument(
-    "--base",
-    type=str,
-    required=True,
-    help="Base ID to publish the workbook to."
-)
-args = parser.parse_args()
+def test_publish_workbook(workbook, owner_email, owner_name):
+    """
+    Test the publish workbook function.
+    """
+    logging.info(f"Publishing workbook: {workbook} to NocoDB")
+    base_id = publish_workbook(workbook, owner_email, owner_name)
+    logging.info(f"Workbook published successfully to base: {base_id}")
+    return base_id
 
-workbook_path = args.workbook
-base_id = args.base
 
-base_schema = get_nocodb_base_schema(base_id)
-if not base_schema:
-    logging.error(f"Base with ID {base_id} not found.")
-    sys.exit(1)
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Publish a workbook to NocoDB.")
+    parser.add_argument(
+        "--workbook",
+        type=str,
+        required=True,
+        help="Path to the workbook directory to publish."
+    )
+    parser.add_argument(
+        "--owner-email",
+        type=str,
+        required=True,
+        help="Email of the owner of the base."
+    )
+    parser.add_argument(
+        "--owner-name",
+        type=str,
+        required=True,
+        help="Name of the owner of the base."
+    )
+    args = parser.parse_args()
 
-logging.info(f"Publishing workbook: {workbook_path}")
-
-#metadata = get_workbook_metadata(workbook_path)
-#logging.info(f"Workbook metadata: {metadata}")
-tables = get_workbook_tables(workbook_path)
-#logging.info(f"Workbook tables: {tables}")
-
-for table in tables:
-    publish_table_to_nocodb(base_id, table)
-    # Uncomment the following line to stop after the first table
-    # break
+    test_publish_workbook(args.workbook, args.owner_email, args.owner_name)
